@@ -1,5 +1,12 @@
 # Yayına alma (Coolify, zensorihomecom.ahmcloud.com)
 
+## Durum (3 Ekim 2026)
+- Coolify: proje `zensorihome` › `production` › uygulama (Public Git Repository, Dockerfile, port 3000) kuruldu,
+  ilk dağıtım başarılı. Kalıcı birim `…-zensorihome-veri` → `/veri`.
+- Alan adları: `https://zensorihomecom.ahmcloud.com` (+ Coolify'ın eklediği www) ve geçici
+  `http://zolfnbjmz6hzfx2yuab83yuq.187.124.174.57.sslip.io` (DNS gelene kadar bu adresten açılır).
+- **Bekleyen:** Hostinger'da A kaydı `zensorihomecom` → `187.124.174.57`. Kayıt yayılınca HTTPS sertifikası kendiliğinden alınır.
+
 Sunucu Ahmet'in; adımlar Yusuf ve Ahmet'in onayıyla yapılır. Kurgu nfcqrkartim ile aynı: açık GitHub deposu,
 Coolify'da Dockerfile ile derleme, kalıcı `/veri` birimi.
 

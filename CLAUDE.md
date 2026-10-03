@@ -41,4 +41,6 @@ Demo adresi: https://zensorihomecom.ahmcloud.com (Ahmet'in Coolify sunucusu). Sa
   404, site haritası, robots (demoda kapalı), paylaşım görseli, ikonlar.
 - Uçtan uca denendi: varyant seç → sepete ekle → ödeme boş gönder (alan hataları) → doldur → sipariş → onay sayfası.
 - Katalog: 43 ürün / 73 varyant (Trendyol 74 ilan, Hepsiburada 31, n11 48 ilan tarandı). Ayrıntı `kaynak/README.md`.
-- Yayına alma: `docs/yayina-alma.md`.
+- YAYINDA (Coolify, 3 Ekim 2026): açık depo github.com/ymert-yrdkl/zensorihome (dal `main`); push sonrası Coolify'da
+  elle Deploy (webhook yok). Geçici adres `zolfnbjmz6hzfx2yuab83yuq.187.124.174.57.sslip.io`; zensorihomecom.ahmcloud.com
+  için Hostinger A kaydı bekliyor. Ayrıntı `docs/yayina-alma.md`.
