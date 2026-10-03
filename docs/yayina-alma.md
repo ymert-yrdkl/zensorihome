@@ -5,7 +5,8 @@
   ilk dağıtım başarılı. Kalıcı birim `…-zensorihome-veri` → `/veri`.
 - Alan adları: `https://zensorihomecom.ahmcloud.com` (+ Coolify'ın eklediği www) ve geçici
   `http://zolfnbjmz6hzfx2yuab83yuq.187.124.174.57.sslip.io` (DNS gelene kadar bu adresten açılır).
-- **Bekleyen:** Hostinger'da A kaydı `zensorihomecom` → `187.124.174.57`. Kayıt yayılınca HTTPS sertifikası kendiliğinden alınır.
+- DNS: Hostinger'da A kaydı `zensorihomecom` → `187.124.174.57`, TTL 300 eklendi (3 Ekim 2026). HTTPS sertifikasını
+  Coolify (Traefik + Let's Encrypt) ilk istekte kendisi alır.
 
 Sunucu Ahmet'in; adımlar Yusuf ve Ahmet'in onayıyla yapılır. Kurgu nfcqrkartim ile aynı: açık GitHub deposu,
 Coolify'da Dockerfile ile derleme, kalıcı `/veri` birimi.
