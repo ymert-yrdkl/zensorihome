@@ -1,0 +1,4552 @@
+{
+ "olusturma": "2026-10-02",
+ "kategoriler": [
+  {
+   "slug": "vazo-obje",
+   "ad": "Vazo & Obje",
+   "ozet": "Cam kapaklı bonbon vazolar, el yapımı seramikler ve heykelsi objeler."
+  },
+  {
+   "slug": "mum",
+   "ad": "Mum",
+   "ozet": "Kokusuz top mumlar, şamdan mumları ve figürlü dekoratif mumlar."
+  },
+  {
+   "slug": "sunum-servis",
+   "ad": "Sunum & Servis",
+   "ozet": "Mango ağacından emaye kaplamalı tabaklar, sunum tahtaları ve ceviz kesme tahtaları."
+  },
+  {
+   "slug": "mutfak",
+   "ad": "Mutfak",
+   "ozet": "Borosilikat cam yağdanlıklar ve mutfak yardımcıları."
+  },
+  {
+   "slug": "banyo",
+   "ad": "Banyo",
+   "ozet": "Seramik sıvı sabunluklar."
+  }
+ ],
+ "koleksiyonlar": [
+  {
+   "slug": "bonbon-serisi",
+   "ad": "Bonbon serisi",
+   "ozet": "Şeker renkli kapaklarıyla iki parçalı cam vazolar. Çiçeksiz de tamamlanmış görünür."
+  },
+  {
+   "slug": "yesil-ekose",
+   "ad": "Yeşil ekose",
+   "ozet": "Mango ağacı çerçeve, yeşil kareli emaye iç yüzey. Kahvaltı sofrasının en sevilen deseni."
+  },
+  {
+   "slug": "yeni-yil-sofrasi",
+   "ad": "Yeni yıl sofrası",
+   "ozet": "Kar tanesi, çam ağacı ve kurabiye adam formlu tabaklar, altın yaldızlı mumlar."
+  },
+  {
+   "slug": "heykelsi-seramikler",
+   "ad": "Heykelsi seramikler",
+   "ozet": "Mat beyaz ve siyah gövdeler, hardal kulplar, oval boşluklar. Rafta tek başına duran parçalar."
+  }
+ ],
+ "urunler": [
+  {
+   "slug": "soft-cool-bonbon-vazo",
+   "ad": "Soft Cool Bonbon Vazo",
+   "marka": "zensori",
+   "kategori": "vazo-obje",
+   "koleksiyonlar": [
+    "bonbon-serisi"
+   ],
+   "sira": 1,
+   "ozet": "Buz mavisi cam gövde, sarı kapak. Bonbon serisinin en küçüğü.",
+   "aciklama": [
+    "Bonbon serisinin en küçük parçası iki ayrı camdan oluşur: buz mavisi bir gövde ve onun üstüne oturan yuvarlak, sarı bir kapak. Kapağı kaldırınca küçük bir saklama kabı, kapalıyken rafta duran bir obje.",
+    "Pastel tonlu bir duvarın önünde, kitapların yanında ya da giriş konsolunda tek başına durur. Kuru bir dal için de uygundur."
+   ],
+   "ozellikler": [
+    [
+     "Malzeme",
+     "Cam"
+    ],
+    [
+     "Yükseklik",
+     "14 cm"
+    ],
+    [
+     "Parça",
+     "Gövde ve kapak"
+    ]
+   ],
+   "bakim": [
+    "Elde, yumuşak süngerle yıkayın.",
+    "Ani sıcaklık değişiminden koruyun."
+   ],
+   "secenekler": [
+    "renk"
+   ],
+   "varyantlar": [
+    {
+     "kod": "mavi",
+     "secimler": {
+      "renk": "Mavi"
+     },
+     "renk": "Mavi",
+     "fiyat": 159900,
+     "barkod": "8685169040047",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/soft-cool-bonbon-vazo/mavi-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#f8e8e8"
+      },
+      {
+       "src": "/urun/soft-cool-bonbon-vazo/mavi-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#f8f8f8"
+      },
+      {
+       "src": "/urun/soft-cool-bonbon-vazo/mavi-3.webp",
+       "genislik": 1199,
+       "yukseklik": 1600,
+       "renk": "#e8f8f8"
+      },
+      {
+       "src": "/urun/soft-cool-bonbon-vazo/mavi-4.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#f8f8f8"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/soft-cool-bonbon-vazo-p-1106986345"
+    }
+   ],
+   "kaynaklar": {
+    "trendyol": [
+     "https://www.trendyol.com/zensori/soft-cool-bonbon-vazo-p-1106986345"
+    ],
+    "hepsiburada": [
+     "https://www.hepsiburada.com/zensori-soft-cool-bonbon-vazo-pm-HBC0000CYCC85"
+    ]
+   }
+  },
+  {
+   "slug": "dramatic-cool-bonbon-vazo",
+   "ad": "Dramatic Cool Bonbon Vazo",
+   "marka": "zensori",
+   "kategori": "vazo-obje",
+   "koleksiyonlar": [
+    "bonbon-serisi"
+   ],
+   "sira": 2,
+   "ozet": "Çift gövdeli, kapaklı cam vazo. Lila kapak, krem gövde.",
+   "aciklama": [
+    "Çift gövdeli formu, iki farklı renk tonunu üst üste koyar. Pastel tonlardaki şeffaf yüzey ışığı yansıtır, rafa ferahlık katar.",
+    "Kapaklı yapısı sayesinde hem dekoratif bir obje hem de küçük bir saklama kabıdır. Zen felsefesinden ilham alan formu, tek başına sergilendiğinde de çiçeklerle de dengeli durur."
+   ],
+   "ozellikler": [
+    [
+     "Malzeme",
+     "Cam"
+    ],
+    [
+     "Ölçü",
+     "12 × 12 × 17 cm"
+    ],
+    [
+     "Parça",
+     "Gövde ve kapak"
+    ]
+   ],
+   "bakim": [
+    "Elde, yumuşak süngerle yıkayın.",
+    "Ani sıcaklık değişiminden koruyun."
+   ],
+   "secenekler": [
+    "renk"
+   ],
+   "varyantlar": [
+    {
+     "kod": "krem",
+     "secimler": {
+      "renk": "Krem"
+     },
+     "renk": "Krem",
+     "fiyat": 159900,
+     "barkod": "8685169040030",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/dramatic-cool-bonbon-vazo/krem-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#a8a898"
+      },
+      {
+       "src": "/urun/dramatic-cool-bonbon-vazo/krem-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#988878"
+      },
+      {
+       "src": "/urun/dramatic-cool-bonbon-vazo/krem-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#c8b8b8"
+      },
+      {
+       "src": "/urun/dramatic-cool-bonbon-vazo/krem-4.webp",
+       "genislik": 1200,
+       "yukseklik": 1601,
+       "renk": "#484828"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/dramatic-cool-bonbon-vazo-p-1106981619"
+    }
+   ],
+   "kaynaklar": {
+    "trendyol": [
+     "https://www.trendyol.com/zensori/dramatic-cool-bonbon-vazo-p-1106981619"
+    ],
+    "hepsiburada": [
+     "https://www.hepsiburada.com/zensori-dramatic-cool-bonbon-vazo-pm-HBC0000CYB91O"
+    ]
+   }
+  },
+  {
+   "slug": "istanbul-bonbon-vazo",
+   "ad": "İstanbul Bonbon Vazo",
+   "marka": "zensori",
+   "kategori": "vazo-obje",
+   "koleksiyonlar": [
+    "bonbon-serisi"
+   ],
+   "sira": 3,
+   "ozet": "Sıcak toprak tonlu gövde, yumuşak mor kapak. Organik hatlı cam vazo.",
+   "aciklama": [
+    "Alt bölümdeki sıcak ton, üstteki yumuşak morla buluşur ve dengeli bir kontrast kurar. Organik hatları ve ışığı yansıtan parlak yüzeyiyle rafta derinlik yaratır.",
+    "Raflarda, masalarda ya da sevdiğiniz bir köşede tek başına sergilenir. Markanın kendi sözleriyle: doğal, yalın, uyumlu ve şiirsel."
+   ],
+   "ozellikler": [
+    [
+     "Malzeme",
+     "Cam"
+    ],
+    [
+     "Ölçü",
+     "12 × 12 × 20 cm"
+    ],
+    [
+     "Parça",
+     "Gövde ve kapak"
+    ]
+   ],
+   "bakim": [
+    "Elde, yumuşak süngerle yıkayın.",
+    "Ani sıcaklık değişiminden koruyun."
+   ],
+   "secenekler": [
+    "renk"
+   ],
+   "varyantlar": [
+    {
+     "kod": "haki",
+     "secimler": {
+      "renk": "Haki"
+     },
+     "renk": "Haki",
+     "fiyat": 249900,
+     "barkod": "8685169040023",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/istanbul-bonbon-vazo/haki-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#d8d8c8"
+      },
+      {
+       "src": "/urun/istanbul-bonbon-vazo/haki-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#e8e8e8"
+      },
+      {
+       "src": "/urun/istanbul-bonbon-vazo/haki-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#281808"
+      },
+      {
+       "src": "/urun/istanbul-bonbon-vazo/haki-4.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#180808"
+      },
+      {
+       "src": "/urun/istanbul-bonbon-vazo/haki-5.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#685848"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/istanbul-bonbon-vazo-p-1106981395"
+    }
+   ],
+   "kaynaklar": {
+    "trendyol": [
+     "https://www.trendyol.com/zensori/istanbul-bonbon-vazo-p-1106981395"
+    ],
+    "hepsiburada": [
+     "https://www.hepsiburada.com/zensori-istanbul-bonbon-vazo-pm-HBC0000CYBDHJ"
+    ]
+   }
+  },
+  {
+   "slug": "trendy-milas-vazo",
+   "ad": "Trendy Milas Vazo",
+   "marka": "zensori",
+   "kategori": "vazo-obje",
+   "koleksiyonlar": [
+    "bonbon-serisi"
+   ],
+   "sira": 4,
+   "ozet": "Mat, buzlu pembe cam gövde ve kahve tonlu kıvrımlı ağız.",
+   "aciklama": [
+    "Yumuşak geçişli pembe tonları ve organik formuyla el işçiliğini hissettiren bir cam vazo. Ağız kısmındaki kahve tonlu kıvrım, sade gövdeye karakter verir.",
+    "Doğal ışıkla buluştuğunda yarı saydam yüzey odaya sıcaklık yayar. Kuru ya da taze çiçekle, ya da hiçbir şey koymadan kullanılabilir."
+   ],
+   "ozellikler": [
+    [
+     "Malzeme",
+     "Cam"
+    ],
+    [
+     "Yüzey",
+     "Mat, buzlu"
+    ],
+    [
+     "Yükseklik",
+     "20 cm"
+    ]
+   ],
+   "bakim": [
+    "Elde, yumuşak süngerle yıkayın.",
+    "Ani sıcaklık değişiminden koruyun."
+   ],
+   "secenekler": [
+    "renk"
+   ],
+   "varyantlar": [
+    {
+     "kod": "pembe",
+     "secimler": {
+      "renk": "Pembe"
+     },
+     "renk": "Pembe",
+     "fiyat": 249900,
+     "barkod": "8685169040009",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/trendy-milas-vazo/pembe-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#d8d8c8"
+      },
+      {
+       "src": "/urun/trendy-milas-vazo/pembe-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#c8b8a8"
+      },
+      {
+       "src": "/urun/trendy-milas-vazo/pembe-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#e8d8b8"
+      },
+      {
+       "src": "/urun/trendy-milas-vazo/pembe-4.webp",
+       "genislik": 1200,
+       "yukseklik": 1601,
+       "renk": "#887858"
+      },
+      {
+       "src": "/urun/trendy-milas-vazo/pembe-5.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#787868"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/tredndy-milas-vazo-p-1107085688"
+    }
+   ],
+   "kaynaklar": {
+    "trendyol": [
+     "https://www.trendyol.com/zensori/tredndy-milas-vazo-p-1107085688"
+    ],
+    "hepsiburada": [
+     "https://www.hepsiburada.com/zensori-trendy-milas-vazo-pm-HBC0000CYBNFH"
+    ]
+   }
+  },
+  {
+   "slug": "boho-ege-bonbon-vazo",
+   "ad": "Boho Ege Bonbon Vazo",
+   "marka": "zensori",
+   "kategori": "vazo-obje",
+   "koleksiyonlar": [
+    "bonbon-serisi"
+   ],
+   "sira": 5,
+   "ozet": "Lavanta tonlu gövde, canlı turuncu kapak. Serinin en büyüğü.",
+   "aciklama": [
+    "Lavanta tonundaki gövde, canlı turuncu kapağıyla güçlü bir kontrast kurar. Işığın altında parlayan yüzeyi odaya hem enerji hem huzur katar.",
+    "Yalnızca bir saklama kabı değil; renklerin dengeli karşıtlığıyla rafın odak noktası olan bir parça."
+   ],
+   "ozellikler": [
+    [
+     "Malzeme",
+     "Cam"
+    ],
+    [
+     "Ölçü",
+     "15,5 × 15,5 × 27 cm"
+    ],
+    [
+     "Parça",
+     "Gövde ve kapak"
+    ]
+   ],
+   "bakim": [
+    "Elde, yumuşak süngerle yıkayın.",
+    "Ani sıcaklık değişiminden koruyun."
+   ],
+   "secenekler": [
+    "renk"
+   ],
+   "varyantlar": [
+    {
+     "kod": "lavanta",
+     "secimler": {
+      "renk": "Lavanta"
+     },
+     "renk": "Lavanta",
+     "fiyat": 289900,
+     "barkod": "8685169040016",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/boho-ege-bonbon-vazo/lavanta-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#b8b8b8"
+      },
+      {
+       "src": "/urun/boho-ege-bonbon-vazo/lavanta-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#a8a898"
+      },
+      {
+       "src": "/urun/boho-ege-bonbon-vazo/lavanta-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#686858"
+      },
+      {
+       "src": "/urun/boho-ege-bonbon-vazo/lavanta-4.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#f8f8f8"
+      },
+      {
+       "src": "/urun/boho-ege-bonbon-vazo/lavanta-5.webp",
+       "genislik": 1199,
+       "yukseklik": 1600,
+       "renk": "#a8a898"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/boho-ege-bonbon-vazo-p-1106961945"
+    }
+   ],
+   "kaynaklar": {
+    "trendyol": [
+     "https://www.trendyol.com/zensori/boho-ege-bonbon-vazo-p-1106961945"
+    ],
+    "hepsiburada": [
+     "https://www.hepsiburada.com/zensori-boho-ege-bonbon-vazo-pm-HBC0000CYB854"
+    ]
+   }
+  },
+  {
+   "slug": "el-yapimi-cam-vazo",
+   "ad": "El Yapımı Cam Vazo",
+   "marka": "zensori",
+   "kategori": "vazo-obje",
+   "koleksiyonlar": [],
+   "sira": 6,
+   "ozet": "Doğal taş dokusundan ilham alan, krem ve bal tonlu el yapımı cam.",
+   "aciklama": [
+    "Krem ve bal tonlarının yumuşak geçişleri, doğal taş dokusunu hatırlatır. El yapımı üretim nedeniyle her parçanın deseni kendine özgüdür.",
+    "Çiçek aranjmanları için uygun olduğu gibi boş haliyle de masada ya da konsolda sakin bir odak noktası oluşturur."
+   ],
+   "ozellikler": [
+    [
+     "Malzeme",
+     "El yapımı cam"
+    ],
+    [
+     "Ölçü",
+     "17 × 23 cm"
+    ]
+   ],
+   "bakim": [
+    "Elde, yumuşak süngerle yıkayın.",
+    "Ani sıcaklık değişiminden koruyun."
+   ],
+   "secenekler": [
+    "renk"
+   ],
+   "varyantlar": [
+    {
+     "kod": "bal",
+     "secimler": {
+      "renk": "Bal"
+     },
+     "renk": "Bal",
+     "fiyat": 399900,
+     "barkod": "6910562404151",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/el-yapimi-cam-vazo/bal-1.webp",
+       "genislik": 1199,
+       "yukseklik": 1600,
+       "renk": "#e8e8f8"
+      },
+      {
+       "src": "/urun/el-yapimi-cam-vazo/bal-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#b8c8b8"
+      },
+      {
+       "src": "/urun/el-yapimi-cam-vazo/bal-3.webp",
+       "genislik": 1199,
+       "yukseklik": 1600,
+       "renk": "#683828"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/el-yapimi-cam-vazo-p-1081906459"
+    }
+   ],
+   "kaynaklar": {
+    "trendyol": [
+     "https://www.trendyol.com/zensori/el-yapimi-cam-vazo-p-1081906459"
+    ],
+    "hepsiburada": [
+     "https://www.hepsiburada.com/el-yapimi-cam-vazo-pm-HBC0000C5NIVZ"
+    ]
+   }
+  },
+  {
+   "slug": "el-yapimi-cam-kase-vazo",
+   "ad": "El Yapımı Cam Kase Vazo",
+   "marka": "zensori",
+   "kategori": "vazo-obje",
+   "koleksiyonlar": [],
+   "sira": 7,
+   "ozet": "Geniş ağızlı, krem ve bal tonlu el yapımı cam kase.",
+   "aciklama": [
+    "El Yapımı Cam Vazo ile aynı serinin geniş ağızlı kardeşi. Krem ve bal tonlarındaki akışkan desen, her parçada farklı düşer.",
+    "Kısa saplı çiçekler, mevsim meyveleri ya da boş haliyle bir konsolun ortası için."
+   ],
+   "ozellikler": [
+    [
+     "Malzeme",
+     "El yapımı cam"
+    ],
+    [
+     "Ölçü",
+     "22 × 16 cm"
+    ],
+    [
+     "Form",
+     "Yuvarlak"
+    ]
+   ],
+   "bakim": [
+    "Elde, yumuşak süngerle yıkayın.",
+    "Ani sıcaklık değişiminden koruyun."
+   ],
+   "secenekler": [
+    "renk"
+   ],
+   "varyantlar": [
+    {
+     "kod": "bal",
+     "secimler": {
+      "renk": "Bal"
+     },
+     "renk": "Bal",
+     "fiyat": 399900,
+     "barkod": "6910562404168",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/el-yapimi-cam-kase-vazo/bal-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#d8d8d8"
+      },
+      {
+       "src": "/urun/el-yapimi-cam-kase-vazo/bal-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#b8b8b8"
+      },
+      {
+       "src": "/urun/el-yapimi-cam-kase-vazo/bal-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#d8d8d8"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/el-yapimi-cam-kase-vazo-p-1081902968"
+    }
+   ],
+   "kaynaklar": {
+    "trendyol": [
+     "https://www.trendyol.com/zensori/el-yapimi-cam-kase-vazo-p-1081902968"
+    ],
+    "hepsiburada": []
+   }
+  },
+  {
+   "slug": "kulplu-seramik-vazo",
+   "ad": "Kulplu Seramik Vazo",
+   "marka": "zensori",
+   "kategori": "vazo-obje",
+   "koleksiyonlar": [
+    "heykelsi-seramikler"
+   ],
+   "sira": 8,
+   "ozet": "Mat gövde, sıcak renkli tek kulp. El yapımı seramik.",
+   "aciklama": [
+    "Doğal formlardan ilham alan bu vazo, mat gövdesi ve sıcak renkli kulp detayıyla odaya dingin bir hava katar. El yapımı dokusu sayesinde her parça kendine özgüdür.",
+    "Heykelsi silueti çiçek aranjmanı için de, tek başına sergilemek için de dengelidir. Krem ve siyah iki rengi var."
+   ],
+   "ozellikler": [
+    [
+     "Malzeme",
+     "El yapımı seramik"
+    ],
+    [
+     "Yüzey",
+     "Mat"
+    ],
+    [
+     "Ölçü",
+     "12 × 25 cm"
+    ]
+   ],
+   "bakim": [
+    "Kuru ya da hafif nemli bezle silin.",
+    "Aşındırıcı temizleyici kullanmayın."
+   ],
+   "secenekler": [
+    "renk"
+   ],
+   "varyantlar": [
+    {
+     "kod": "krem",
+     "secimler": {
+      "renk": "Krem"
+     },
+     "renk": "Krem",
+     "fiyat": 149900,
+     "barkod": "8868756041261",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/kulplu-seramik-vazo/krem-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#d8d8d8"
+      },
+      {
+       "src": "/urun/kulplu-seramik-vazo/krem-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#c8c8c8"
+      },
+      {
+       "src": "/urun/kulplu-seramik-vazo/krem-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#987868"
+      },
+      {
+       "src": "/urun/kulplu-seramik-vazo/krem-4.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#b8c8b8"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/krem-seramik-vazo-p-1081920793"
+    },
+    {
+     "kod": "siyah",
+     "secimler": {
+      "renk": "Siyah"
+     },
+     "renk": "Siyah",
+     "fiyat": 139900,
+     "barkod": "8868956041261",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/kulplu-seramik-vazo/siyah-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#d8e8e8"
+      },
+      {
+       "src": "/urun/kulplu-seramik-vazo/siyah-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#c8b8b8"
+      },
+      {
+       "src": "/urun/kulplu-seramik-vazo/siyah-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#c8d8d8"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/siyah-seramik-vazo-p-1081906615"
+    }
+   ],
+   "kaynaklar": {
+    "trendyol": [
+     "https://www.trendyol.com/zensori/krem-seramik-vazo-p-1081920793",
+     "https://www.trendyol.com/zensori/siyah-seramik-vazo-p-1081906615"
+    ],
+    "hepsiburada": [
+     "https://www.hepsiburada.com/krem-seramik-vazo-pm-HBC0000C0XWCE",
+     "https://www.hepsiburada.com/zensori-siyah-seramik-vazo-p-HBCV0000C0TU7S"
+    ]
+   }
+  },
+  {
+   "slug": "modern-tasarimli-seramik-vazo",
+   "ad": "Modern Tasarımlı Seramik Vazo",
+   "marka": "zensori",
+   "kategori": "vazo-obje",
+   "koleksiyonlar": [
+    "heykelsi-seramikler"
+   ],
+   "sira": 9,
+   "ozet": "Geniş, geometrik gövde ve iki hardal kulp. Krem ya da siyah.",
+   "aciklama": [
+    "Minimal çizgileri ve renk kontrastıyla öne çıkan bir seramik vazo. Mat gövde ve iki sarı kulp, geometrik siluete sıcaklık katar.",
+    "Tek başına sergilenebilir; kuru çiçek ya da dekoratif bir dal ile de kullanılabilir."
+   ],
+   "ozellikler": [
+    [
+     "Malzeme",
+     "El yapımı seramik"
+    ],
+    [
+     "Yüzey",
+     "Mat"
+    ],
+    [
+     "Ölçü",
+     "18 × 21 cm"
+    ]
+   ],
+   "bakim": [
+    "Kuru ya da hafif nemli bezle silin.",
+    "Aşındırıcı temizleyici kullanmayın."
+   ],
+   "secenekler": [
+    "renk"
+   ],
+   "varyantlar": [
+    {
+     "kod": "krem",
+     "secimler": {
+      "renk": "Krem"
+     },
+     "renk": "Krem",
+     "fiyat": 139900,
+     "barkod": "8868936041278",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/modern-tasarimli-seramik-vazo/krem-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#b8a8a8"
+      },
+      {
+       "src": "/urun/modern-tasarimli-seramik-vazo/krem-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#a8c8c8"
+      },
+      {
+       "src": "/urun/modern-tasarimli-seramik-vazo/krem-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#584838"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/modern-tasarimli-seramik-vazo-p-1080190962"
+    },
+    {
+     "kod": "siyah",
+     "secimler": {
+      "renk": "Siyah"
+     },
+     "renk": "Siyah",
+     "fiyat": 139900,
+     "barkod": "8868956041278",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/modern-tasarimli-seramik-vazo/siyah-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#f8d8b8"
+      },
+      {
+       "src": "/urun/modern-tasarimli-seramik-vazo/siyah-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#c8d8c8"
+      },
+      {
+       "src": "/urun/modern-tasarimli-seramik-vazo/siyah-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#f8f8f8"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/modern-tasarimli-seramik-vazo-p-1081911197"
+    }
+   ],
+   "kaynaklar": {
+    "trendyol": [
+     "https://www.trendyol.com/zensori/modern-tasarimli-seramik-vazo-p-1080190962",
+     "https://www.trendyol.com/zensori/modern-tasarimli-seramik-vazo-p-1081911197"
+    ],
+    "hepsiburada": [
+     "https://www.hepsiburada.com/modern-tasarimli-seramik-vazo-pm-HBC0000C0ZFSQ"
+    ]
+   }
+  },
+  {
+   "slug": "heykelsi-form-seramik-vazo",
+   "ad": "Heykelsi Form Seramik Vazo",
+   "marka": "zensori",
+   "kategori": "vazo-obje",
+   "koleksiyonlar": [
+    "heykelsi-seramikler"
+   ],
+   "sira": 10,
+   "ozet": "İnce uzun siyah gövde, boynunda iki hardal halka.",
+   "aciklama": [
+    "İnce, uzun boyunlu bir siyah seramik. Boyundaki iki hardal halka formu ikiye böler ve vazoya heykelsi bir duruş verir.",
+    "Tek dal ya da birkaç kuru başakla, yemek masasında veya kitaplıkta dikey bir vurgu."
+   ],
+   "ozellikler": [
+    [
+     "Malzeme",
+     "Seramik"
+    ],
+    [
+     "Yüzey",
+     "Mat"
+    ],
+    [
+     "Renk",
+     "Siyah gövde, hardal halkalar"
+    ]
+   ],
+   "bakim": [
+    "Kuru ya da hafif nemli bezle silin.",
+    "Aşındırıcı temizleyici kullanmayın."
+   ],
+   "secenekler": [
+    "renk"
+   ],
+   "varyantlar": [
+    {
+     "kod": "siyah",
+     "secimler": {
+      "renk": "Siyah"
+     },
+     "renk": "Siyah",
+     "fiyat": 139900,
+     "barkod": "8868956041254",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/heykelsi-form-seramik-vazo/siyah-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#b8c8d8"
+      },
+      {
+       "src": "/urun/heykelsi-form-seramik-vazo/siyah-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1601,
+       "renk": "#d8d8d8"
+      },
+      {
+       "src": "/urun/heykelsi-form-seramik-vazo/siyah-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#887868"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/modern-seramik-vazo-heykelsi-form-cift-kulplu-tasarim-p-1081910939"
+    }
+   ],
+   "kaynaklar": {
+    "trendyol": [
+     "https://www.trendyol.com/zensori/modern-seramik-vazo-heykelsi-form-cift-kulplu-tasarim-p-1081910939"
+    ],
+    "hepsiburada": []
+   }
+  },
+  {
+   "slug": "oval-bosluklu-seramik-vazo",
+   "ad": "Oval Boşluklu Seramik Vazo",
+   "marka": "zensori",
+   "kategori": "vazo-obje",
+   "koleksiyonlar": [
+    "heykelsi-seramikler"
+   ],
+   "sira": 11,
+   "ozet": "Pütürlü beyaz yüzey, ortada siyah oval boşluk, iki dikey ağız.",
+   "aciklama": [
+    "Geometrik sadeliğiyle dikkat çeken bu parçada, merkezdeki siyah oval boşluk derinlik ve kontrast yaratır. İki dikey silindir simetrik bir denge kurar; pütürlü beyaz yüzey ışıkla birlikte dokusunu gösterir.",
+    "Sehpada, kitaplıkta ya da giriş alanında tek başına bir sanat nesnesi gibi durur."
+   ],
+   "ozellikler": [
+    [
+     "Malzeme",
+     "Seramik"
+    ],
+    [
+     "Yüzey",
+     "Pütürlü, mat"
+    ],
+    [
+     "Ölçü",
+     "18 × 19 cm"
+    ]
+   ],
+   "bakim": [
+    "Kuru ya da hafif nemli bezle silin.",
+    "Aşındırıcı temizleyici kullanmayın."
+   ],
+   "secenekler": [
+    "renk"
+   ],
+   "varyantlar": [
+    {
+     "kod": "beyaz",
+     "secimler": {
+      "renk": "Beyaz"
+     },
+     "renk": "Beyaz",
+     "fiyat": 159900,
+     "barkod": "8868956037363",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/oval-bosluklu-seramik-vazo/beyaz-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#b8b8b8"
+      },
+      {
+       "src": "/urun/oval-bosluklu-seramik-vazo/beyaz-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1601,
+       "renk": "#f8f8f8"
+      },
+      {
+       "src": "/urun/oval-bosluklu-seramik-vazo/beyaz-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#985838"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/modern-tasarimli-seramik-vazo-p-1081915330"
+    }
+   ],
+   "kaynaklar": {
+    "trendyol": [
+     "https://www.trendyol.com/zensori/modern-tasarimli-seramik-vazo-p-1081915330"
+    ],
+    "hepsiburada": [
+     "https://www.hepsiburada.com/modern-tasarimli-seramik-vazo-pm-HBC0000C13QSC"
+    ]
+   }
+  },
+  {
+   "slug": "heykelsi-seramik-vazo",
+   "ad": "Heykelsi Seramik Vazo",
+   "marka": "zensori",
+   "kategori": "vazo-obje",
+   "koleksiyonlar": [
+    "heykelsi-seramikler"
+   ],
+   "sira": 12,
+   "ozet": "U formlu, ayaklı, pütürlü beyaz seramik vazo.",
+   "aciklama": [
+    "U formlu silueti ve el işçiliğini andıran pütürlü yüzeyiyle sade ama dokunsal bir parça. Pastel bir duvarın önünde dingin bir kontrast kurar.",
+    "Boru formundaki iki açıklığa birkaç tüy çiçek ya da kuru dal yerleştirmek yeterli. Salonda, girişte ya da çalışma masasında."
+   ],
+   "ozellikler": [
+    [
+     "Malzeme",
+     "Seramik"
+    ],
+    [
+     "Yüzey",
+     "Pütürlü, mat"
+    ],
+    [
+     "Ölçü",
+     "20 × 17,5 cm"
+    ]
+   ],
+   "bakim": [
+    "Kuru ya da hafif nemli bezle silin.",
+    "Aşındırıcı temizleyici kullanmayın."
+   ],
+   "secenekler": [
+    "renk"
+   ],
+   "varyantlar": [
+    {
+     "kod": "beyaz",
+     "secimler": {
+      "renk": "Beyaz"
+     },
+     "renk": "Beyaz",
+     "fiyat": 149900,
+     "barkod": "8868956002132",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/heykelsi-seramik-vazo/beyaz-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#c8d8d8"
+      },
+      {
+       "src": "/urun/heykelsi-seramik-vazo/beyaz-2.webp",
+       "genislik": 1199,
+       "yukseklik": 1600,
+       "renk": "#c8d8d8"
+      },
+      {
+       "src": "/urun/heykelsi-seramik-vazo/beyaz-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1601,
+       "renk": "#283848"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/heykelsi-seramik-vazo-p-1081915762"
+    }
+   ],
+   "kaynaklar": {
+    "trendyol": [
+     "https://www.trendyol.com/zensori/heykelsi-seramik-vazo-p-1081915762"
+    ],
+    "hepsiburada": [
+     "https://www.hepsiburada.com/heykelsi-seramik-vazo-pm-HBC0000C13VFI"
+    ]
+   }
+  },
+  {
+   "slug": "siyah-konturlu-seramik-vazo",
+   "ad": "Siyah Konturlu Seramik Vazo",
+   "marka": "zensori",
+   "kategori": "vazo-obje",
+   "koleksiyonlar": [
+    "heykelsi-seramikler"
+   ],
+   "sira": 13,
+   "ozet": "Mat beyaz gövde, siyah konturlu büyük oval kesitler.",
+   "aciklama": [
+    "Büyük oval kesitleri ve siyah konturlarıyla yüzü andıran soyut bir form. Her kesit ışıkla farklı bir gölge oyunu kurar.",
+    "Çiçeksiz de tamamlanmış görünür. Rafta, konsolda ya da yemek masasında tek başına bir odak noktası."
+   ],
+   "ozellikler": [
+    [
+     "Malzeme",
+     "Mat seramik"
+    ],
+    [
+     "Renk",
+     "Beyaz gövde, siyah kontur"
+    ],
+    [
+     "Ölçü",
+     "19 × 14 cm"
+    ]
+   ],
+   "bakim": [
+    "Kuru ya da hafif nemli bezle silin.",
+    "Aşındırıcı temizleyici kullanmayın."
+   ],
+   "secenekler": [
+    "renk"
+   ],
+   "varyantlar": [
+    {
+     "kod": "beyaz",
+     "secimler": {
+      "renk": "Beyaz"
+     },
+     "renk": "Beyaz",
+     "fiyat": 149900,
+     "barkod": "8868956034843",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/siyah-konturlu-seramik-vazo/beyaz-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#98b8c8"
+      },
+      {
+       "src": "/urun/siyah-konturlu-seramik-vazo/beyaz-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#787878"
+      },
+      {
+       "src": "/urun/siyah-konturlu-seramik-vazo/beyaz-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#f8f8f8"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/siyah-konturlu-dekoratif-seramik-vazo-p-1081912895"
+    }
+   ],
+   "kaynaklar": {
+    "trendyol": [
+     "https://www.trendyol.com/zensori/siyah-konturlu-dekoratif-seramik-vazo-p-1081912895"
+    ],
+    "hepsiburada": [
+     "https://www.hepsiburada.com/siyah-konturlu-dekoratif-seramik-vazo-pm-HBC0000C12OD4"
+    ]
+   }
+  },
+  {
+   "slug": "heykelsi-seramik-obje",
+   "ad": "Heykelsi Seramik Obje",
+   "marka": "zensori",
+   "kategori": "vazo-obje",
+   "koleksiyonlar": [
+    "heykelsi-seramikler"
+   ],
+   "sira": 14,
+   "ozet": "Küçük, beyaz, siyah halkalı seramik obje. Kuru çiçek için üç ağız.",
+   "aciklama": [
+    "Oval boşluklu serinin küçük boyu. Siyah halkalı bir açıklık ve üç kısa ağız, beyaz seramiğe heykelsi bir yüz verir.",
+    "Raf aralarında, kitapların önünde ya da kahvaltı masasında birkaç kuru dal ile."
+   ],
+   "ozellikler": [
+    [
+     "Malzeme",
+     "Seramik"
+    ],
+    [
+     "Ölçü",
+     "10 × 10 cm"
+    ]
+   ],
+   "bakim": [
+    "Kuru ya da hafif nemli bezle silin.",
+    "Aşındırıcı temizleyici kullanmayın."
+   ],
+   "secenekler": [
+    "renk"
+   ],
+   "varyantlar": [
+    {
+     "kod": "beyaz",
+     "secimler": {
+      "renk": "Beyaz"
+     },
+     "renk": "Beyaz",
+     "fiyat": 149900,
+     "barkod": "8868956037370",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/heykelsi-seramik-obje/beyaz-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#d8d8c8"
+      },
+      {
+       "src": "/urun/heykelsi-seramik-obje/beyaz-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#d8d8c8"
+      },
+      {
+       "src": "/urun/heykelsi-seramik-obje/beyaz-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#a89878"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/heykelsi-seramik-obje-p-1081915294"
+    }
+   ],
+   "kaynaklar": {
+    "trendyol": [
+     "https://www.trendyol.com/zensori/heykelsi-seramik-obje-p-1081915294"
+    ],
+    "hepsiburada": []
+   }
+  },
+  {
+   "slug": "geometrik-seramik-obje",
+   "ad": "Geometrik Seramik Obje",
+   "marka": "zensori",
+   "kategori": "vazo-obje",
+   "koleksiyonlar": [
+    "heykelsi-seramikler"
+   ],
+   "sira": 15,
+   "ozet": "Ayaklı, yamuk formlu beyaz seramik; ortada altın bir daire.",
+   "aciklama": [
+    "Kısa ayaklar üstünde duran yamuk bir form ve tam ortasında altın tonlu bir daire. Dokulu beyaz yüzey, altın detayı öne çıkarır.",
+    "Konsolda, raf ortasında ya da kitapların yanında yatay bir denge unsuru olarak."
+   ],
+   "ozellikler": [
+    [
+     "Malzeme",
+     "Seramik"
+    ],
+    [
+     "Ölçü",
+     "23 × 18 cm"
+    ]
+   ],
+   "bakim": [
+    "Kuru ya da hafif nemli bezle silin.",
+    "Aşındırıcı temizleyici kullanmayın."
+   ],
+   "secenekler": [
+    "renk"
+   ],
+   "varyantlar": [
+    {
+     "kod": "beyaz",
+     "secimler": {
+      "renk": "Beyaz"
+     },
+     "renk": "Beyaz",
+     "fiyat": 149900,
+     "barkod": "8868956002149",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/geometrik-seramik-obje/beyaz-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#b8b8b8"
+      },
+      {
+       "src": "/urun/geometrik-seramik-obje/beyaz-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#f8f8f8"
+      },
+      {
+       "src": "/urun/geometrik-seramik-obje/beyaz-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#a8a8a8"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/geometrik-seramik-obje-p-1081917895"
+    }
+   ],
+   "kaynaklar": {
+    "trendyol": [
+     "https://www.trendyol.com/zensori/geometrik-seramik-obje-p-1081917895"
+    ],
+    "hepsiburada": []
+   }
+  },
+  {
+   "slug": "sessiz-kureler-mum",
+   "ad": "Sessiz Küreler Mum",
+   "marka": "zensori",
+   "kategori": "mum",
+   "koleksiyonlar": [
+    "yeni-yil-sofrasi"
+   ],
+   "sira": 16,
+   "ozet": "Kokusuz top mum. Krem, beyaz ve gri; 8 ve 10 cm.",
+   "aciklama": [
+    "Sessiz Küreler koleksiyonunun yalın top mumları. Kokusuzdur; sofrada yemeğin kokusuna karışmaz.",
+    "Desenli bir porselen tabağın ortasında, kitaplığın bir rafında ya da birkaç boyu yan yana dizerek kullanın."
+   ],
+   "ozellikler": [
+    [
+     "Koku",
+     "Kokusuz"
+    ],
+    [
+     "Boyut",
+     "8 × 8 cm ya da 10 × 10 cm"
+    ],
+    [
+     "Menşei",
+     "Türkiye"
+    ]
+   ],
+   "bakim": [
+    "İlk yakışta mumun yüzeyi tamamen eriyene kadar (2-3 saat) söndürmeyin; ortada çukurlaşma olmaz.",
+    "Her yakıştan önce fitili 4-5 mm kısaltın.",
+    "Hava akımı olan yerlerden, perde ve kâğıt gibi kolay tutuşan nesnelerden uzak tutun.",
+    "Isıya dayanıklı bir yüzeyde yakın, yanarken gözetimsiz bırakmayın.",
+    "Mumlar arasında 5-10 cm boşluk bırakın; çocuk ve evcil hayvanlardan uzak tutun."
+   ],
+   "secenekler": [
+    "boyut",
+    "renk"
+   ],
+   "varyantlar": [
+    {
+     "kod": "8-cm-krem",
+     "secimler": {
+      "boyut": "8 cm",
+      "renk": "Krem"
+     },
+     "renk": "Krem",
+     "fiyat": 29900,
+     "barkod": "8681922014800",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/sessiz-kureler-mum/8-cm-krem-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#783818"
+      },
+      {
+       "src": "/urun/sessiz-kureler-mum/8-cm-krem-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#381808"
+      },
+      {
+       "src": "/urun/sessiz-kureler-mum/8-cm-krem-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#787858"
+      },
+      {
+       "src": "/urun/sessiz-kureler-mum/8-cm-krem-4.webp",
+       "genislik": 1200,
+       "yukseklik": 1587,
+       "renk": "#484838"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/sessiz-kureler-mum-koleksiyonu-p-1091315825"
+    },
+    {
+     "kod": "8-cm-beyaz",
+     "secimler": {
+      "boyut": "8 cm",
+      "renk": "Beyaz"
+     },
+     "renk": "Beyaz",
+     "fiyat": 44900,
+     "barkod": "868192209948",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/sessiz-kureler-mum/8-cm-beyaz-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#784828"
+      },
+      {
+       "src": "/urun/sessiz-kureler-mum/8-cm-beyaz-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#c8c8b8"
+      },
+      {
+       "src": "/urun/sessiz-kureler-mum/8-cm-beyaz-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#b8c8d8"
+      },
+      {
+       "src": "/urun/sessiz-kureler-mum/8-cm-beyaz-4.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#d8d8d8"
+      },
+      {
+       "src": "/urun/sessiz-kureler-mum/8-cm-beyaz-5.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#b89888"
+      },
+      {
+       "src": "/urun/sessiz-kureler-mum/8-cm-beyaz-6.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#485848"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/sessiz-kureler-mum-koleksiyonu-p-1091315759"
+    },
+    {
+     "kod": "8-cm-gri",
+     "secimler": {
+      "boyut": "8 cm",
+      "renk": "Gri"
+     },
+     "renk": "Gri",
+     "fiyat": 44900,
+     "barkod": "867192607948",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/sessiz-kureler-mum/8-cm-gri-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#583828"
+      },
+      {
+       "src": "/urun/sessiz-kureler-mum/8-cm-gri-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#485848"
+      },
+      {
+       "src": "/urun/sessiz-kureler-mum/8-cm-gri-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#b89888"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/sessiz-kureler-mum-koleksiyonu-p-1091316014"
+    },
+    {
+     "kod": "10-cm-krem",
+     "secimler": {
+      "boyut": "10 cm",
+      "renk": "Krem"
+     },
+     "renk": "Krem",
+     "fiyat": 54900,
+     "barkod": "8681922082890",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/sessiz-kureler-mum/10-cm-krem-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#783818"
+      },
+      {
+       "src": "/urun/sessiz-kureler-mum/10-cm-krem-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#381808"
+      },
+      {
+       "src": "/urun/sessiz-kureler-mum/10-cm-krem-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#484838"
+      },
+      {
+       "src": "/urun/sessiz-kureler-mum/10-cm-krem-4.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#787858"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/sessiz-kureler-mum-koleksiyonu-10cm-p-1091346721"
+    },
+    {
+     "kod": "10-cm-beyaz",
+     "secimler": {
+      "boyut": "10 cm",
+      "renk": "Beyaz"
+     },
+     "renk": "Beyaz",
+     "fiyat": 54900,
+     "barkod": "8681972084800",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/sessiz-kureler-mum/10-cm-beyaz-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#784828"
+      },
+      {
+       "src": "/urun/sessiz-kureler-mum/10-cm-beyaz-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#c8c8b8"
+      },
+      {
+       "src": "/urun/sessiz-kureler-mum/10-cm-beyaz-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#b8c8d8"
+      },
+      {
+       "src": "/urun/sessiz-kureler-mum/10-cm-beyaz-4.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#d8d8d8"
+      },
+      {
+       "src": "/urun/sessiz-kureler-mum/10-cm-beyaz-5.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#b89888"
+      },
+      {
+       "src": "/urun/sessiz-kureler-mum/10-cm-beyaz-6.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#485848"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/sessiz-kureler-mum-koleksiyonu-10cm-p-1091346765"
+    },
+    {
+     "kod": "10-cm-gri",
+     "secimler": {
+      "boyut": "10 cm",
+      "renk": "Gri"
+     },
+     "renk": "Gri",
+     "fiyat": 54900,
+     "barkod": "868592207948",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/sessiz-kureler-mum/10-cm-gri-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#583828"
+      },
+      {
+       "src": "/urun/sessiz-kureler-mum/10-cm-gri-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#485848"
+      },
+      {
+       "src": "/urun/sessiz-kureler-mum/10-cm-gri-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#b89888"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/sessiz-kureler-mum-koleksiyonu-10cm-p-1091346730"
+    }
+   ],
+   "kaynaklar": {
+    "trendyol": [
+     "https://www.trendyol.com/zensori/sessiz-kureler-mum-koleksiyonu-p-1091315825",
+     "https://www.trendyol.com/zensori/sessiz-kureler-mum-koleksiyonu-p-1091315759",
+     "https://www.trendyol.com/zensori/sessiz-kureler-mum-koleksiyonu-p-1091316014",
+     "https://www.trendyol.com/zensori/sessiz-kureler-mum-koleksiyonu-10cm-p-1091346721",
+     "https://www.trendyol.com/zensori/sessiz-kureler-mum-koleksiyonu-10cm-p-1091346765",
+     "https://www.trendyol.com/zensori/sessiz-kureler-mum-koleksiyonu-10cm-p-1091346730"
+    ],
+    "hepsiburada": []
+   }
+  },
+  {
+   "slug": "tirtikli-samdan-mum",
+   "ad": "Tırtıklı Şamdan Mum",
+   "marka": "zensori",
+   "kategori": "mum",
+   "koleksiyonlar": [],
+   "sira": 17,
+   "ozet": "Katmanlı Sessizlik koleksiyonu. Tırtıklı yüzeyli 25 cm şamdan mumu.",
+   "aciklama": [
+    "Katmanlı Sessizlik koleksiyonunun tırtıklı yüzeyi, ışığın ve gölgenin ritmini mumun üstüne taşır. Silindirik, sade ve karakterli.",
+    "Üç ton: beyaz saf ve nötr bir başlangıç, gri düşünceli ve zamansız, vizon sıcak ve toprakla uyumlu. Sade sofralar ve sessiz köşeler için."
+   ],
+   "ozellikler": [
+    [
+     "Ölçü",
+     "2 × 25 cm"
+    ],
+    [
+     "Adet",
+     "1"
+    ],
+    [
+     "Menşei",
+     "Türkiye"
+    ]
+   ],
+   "bakim": [
+    "İlk yakışta mumun yüzeyi tamamen eriyene kadar (2-3 saat) söndürmeyin; ortada çukurlaşma olmaz.",
+    "Her yakıştan önce fitili 4-5 mm kısaltın.",
+    "Hava akımı olan yerlerden, perde ve kâğıt gibi kolay tutuşan nesnelerden uzak tutun.",
+    "Isıya dayanıklı bir yüzeyde yakın, yanarken gözetimsiz bırakmayın.",
+    "Mumlar arasında 5-10 cm boşluk bırakın; çocuk ve evcil hayvanlardan uzak tutun."
+   ],
+   "secenekler": [
+    "renk"
+   ],
+   "varyantlar": [
+    {
+     "kod": "beyaz",
+     "secimler": {
+      "renk": "Beyaz"
+     },
+     "renk": "Beyaz",
+     "fiyat": 39900,
+     "barkod": "868192207988",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/tirtikli-samdan-mum/beyaz-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#a89888"
+      },
+      {
+       "src": "/urun/tirtikli-samdan-mum/beyaz-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#284868"
+      },
+      {
+       "src": "/urun/tirtikli-samdan-mum/beyaz-3.webp",
+       "genislik": 1199,
+       "yukseklik": 1600,
+       "renk": "#989898"
+      },
+      {
+       "src": "/urun/tirtikli-samdan-mum/beyaz-4.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#c8a898"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/tirtikli-samdan-mum-25-cm-p-1091400365"
+    },
+    {
+     "kod": "gri",
+     "secimler": {
+      "renk": "Gri"
+     },
+     "renk": "Gri",
+     "fiyat": 39900,
+     "barkod": "8681922084700",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/tirtikli-samdan-mum/gri-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#b8a898"
+      },
+      {
+       "src": "/urun/tirtikli-samdan-mum/gri-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#284868"
+      },
+      {
+       "src": "/urun/tirtikli-samdan-mum/gri-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#c8a898"
+      },
+      {
+       "src": "/urun/tirtikli-samdan-mum/gri-4.webp",
+       "genislik": 1030,
+       "yukseklik": 1798,
+       "renk": "#989898"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/tirtikli-samdan-mum-25-cm-p-1091400188"
+    },
+    {
+     "kod": "vizon",
+     "secimler": {
+      "renk": "Vizon"
+     },
+     "renk": "Vizon",
+     "fiyat": 39900,
+     "barkod": "868192707928",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/tirtikli-samdan-mum/vizon-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#b8a898"
+      },
+      {
+       "src": "/urun/tirtikli-samdan-mum/vizon-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#284868"
+      },
+      {
+       "src": "/urun/tirtikli-samdan-mum/vizon-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#c8a898"
+      },
+      {
+       "src": "/urun/tirtikli-samdan-mum/vizon-4.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#98b8d8"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/tirtikli-samdan-mum-25-cm-p-1091400403"
+    }
+   ],
+   "kaynaklar": {
+    "trendyol": [
+     "https://www.trendyol.com/zensori/tirtikli-samdan-mum-25-cm-p-1091400365",
+     "https://www.trendyol.com/zensori/tirtikli-samdan-mum-25-cm-p-1091400188",
+     "https://www.trendyol.com/zensori/tirtikli-samdan-mum-25-cm-p-1091400403"
+    ],
+    "hepsiburada": [
+     "https://www.hepsiburada.com/zensori-tirtikli-samdan-mum-25-cm-p-HBCV0000CGXBZS"
+    ]
+   }
+  },
+  {
+   "slug": "ahenk-samdan-mum-dortlu",
+   "ad": "Ahenk Şamdan Mum, 4 Adet",
+   "marka": "zensori",
+   "kategori": "mum",
+   "koleksiyonlar": [
+    "yeni-yil-sofrasi"
+   ],
+   "sira": 18,
+   "ozet": "Düz, el yapımı 25 cm şamdan mumu; dörtlü paket.",
+   "aciklama": [
+    "Yalın formu ve dingin renkleriyle akşam sofralarından okuma köşelerine kadar her yerde sakin bir ışık. Dumanı az, ışığı yumuşak.",
+    "Siyah derin ve güçlü, beyaz saf ve aydınlık, krem yumuşak ve doğal. Paket dört mumdan oluşur."
+   ],
+   "ozellikler": [
+    [
+     "Ölçü",
+     "2 × 25 cm"
+    ],
+    [
+     "Adet",
+     "4"
+    ],
+    [
+     "Üretim",
+     "El yapımı"
+    ],
+    [
+     "Menşei",
+     "Türkiye"
+    ]
+   ],
+   "bakim": [
+    "İlk yakışta mumun yüzeyi tamamen eriyene kadar (2-3 saat) söndürmeyin; ortada çukurlaşma olmaz.",
+    "Her yakıştan önce fitili 4-5 mm kısaltın.",
+    "Hava akımı olan yerlerden, perde ve kâğıt gibi kolay tutuşan nesnelerden uzak tutun.",
+    "Isıya dayanıklı bir yüzeyde yakın, yanarken gözetimsiz bırakmayın.",
+    "Mumlar arasında 5-10 cm boşluk bırakın; çocuk ve evcil hayvanlardan uzak tutun."
+   ],
+   "secenekler": [
+    "renk"
+   ],
+   "varyantlar": [
+    {
+     "kod": "krem",
+     "secimler": {
+      "renk": "Krem"
+     },
+     "renk": "Krem",
+     "fiyat": 40000,
+     "barkod": "868192707948",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/ahenk-samdan-mum-dortlu/krem-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#c8b898"
+      },
+      {
+       "src": "/urun/ahenk-samdan-mum-dortlu/krem-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#684838"
+      },
+      {
+       "src": "/urun/ahenk-samdan-mum-dortlu/krem-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#987848"
+      },
+      {
+       "src": "/urun/ahenk-samdan-mum-dortlu/krem-4.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#180808"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/ahenk-samdan-mum-25-cm-dort-adet-p-1091304013"
+    },
+    {
+     "kod": "beyaz",
+     "secimler": {
+      "renk": "Beyaz"
+     },
+     "renk": "Beyaz",
+     "fiyat": 40000,
+     "barkod": "8681922084890",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/ahenk-samdan-mum-dortlu/beyaz-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#180808"
+      },
+      {
+       "src": "/urun/ahenk-samdan-mum-dortlu/beyaz-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1601,
+       "renk": "#c8b898"
+      },
+      {
+       "src": "/urun/ahenk-samdan-mum-dortlu/beyaz-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#987848"
+      },
+      {
+       "src": "/urun/ahenk-samdan-mum-dortlu/beyaz-4.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#98a898"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/ahenk-samdan-mum-25-cm-dort-adet-p-1091304022"
+    },
+    {
+     "kod": "siyah",
+     "secimler": {
+      "renk": "Siyah"
+     },
+     "renk": "Siyah",
+     "fiyat": 40000,
+     "barkod": "8681423080794",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/ahenk-samdan-mum-dortlu/siyah-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1601,
+       "renk": "#c8b898"
+      },
+      {
+       "src": "/urun/ahenk-samdan-mum-dortlu/siyah-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#684838"
+      },
+      {
+       "src": "/urun/ahenk-samdan-mum-dortlu/siyah-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#987848"
+      },
+      {
+       "src": "/urun/ahenk-samdan-mum-dortlu/siyah-4.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#180808"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/ahenk-samdan-mum-25-cm-dort-adet-p-1091304014"
+    }
+   ],
+   "kaynaklar": {
+    "trendyol": [
+     "https://www.trendyol.com/zensori/ahenk-samdan-mum-25-cm-dort-adet-p-1091304013",
+     "https://www.trendyol.com/zensori/ahenk-samdan-mum-25-cm-dort-adet-p-1091304022",
+     "https://www.trendyol.com/zensori/ahenk-samdan-mum-25-cm-dort-adet-p-1091304014"
+    ],
+    "hepsiburada": [
+     "https://www.hepsiburada.com/zensori-ahenk-samdan-mum-dort-adet-p-HBCV0000CGH34E"
+    ]
+   }
+  },
+  {
+   "slug": "tavus-kusu-desenli-mum",
+   "ad": "Tavus Kuşu Desenli Mum",
+   "marka": "zensori",
+   "kategori": "mum",
+   "koleksiyonlar": [
+    "yeni-yil-sofrasi"
+   ],
+   "sira": 19,
+   "ozet": "Altın tavus kuşu ve yaprak kabartmalı büyük top mum.",
+   "aciklama": [
+    "Krem bir kürenin üzerinde altın tonlu tavus kuşu ve yaprak kabartmaları. Yanmadığında da masanın ortasında bir süs gibi durur.",
+    "Kokusuzdur. Bir servis tabağının ya da mumluk tabağının üstünde kullanın."
+   ],
+   "ozellikler": [
+    [
+     "Koku",
+     "Kokusuz"
+    ],
+    [
+     "Ölçü",
+     "14 × 13 cm"
+    ],
+    [
+     "Menşei",
+     "Türkiye"
+    ]
+   ],
+   "bakim": [
+    "İlk yakışta mumun yüzeyi tamamen eriyene kadar (2-3 saat) söndürmeyin; ortada çukurlaşma olmaz.",
+    "Her yakıştan önce fitili 4-5 mm kısaltın.",
+    "Hava akımı olan yerlerden, perde ve kâğıt gibi kolay tutuşan nesnelerden uzak tutun.",
+    "Isıya dayanıklı bir yüzeyde yakın, yanarken gözetimsiz bırakmayın.",
+    "Mumlar arasında 5-10 cm boşluk bırakın; çocuk ve evcil hayvanlardan uzak tutun."
+   ],
+   "secenekler": [
+    "renk"
+   ],
+   "varyantlar": [
+    {
+     "kod": "krem",
+     "secimler": {
+      "renk": "Krem"
+     },
+     "renk": "Krem",
+     "fiyat": 220000,
+     "barkod": "8631922080800",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/tavus-kusu-desenli-mum/krem-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#98c8d8"
+      },
+      {
+       "src": "/urun/tavus-kusu-desenli-mum/krem-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#281808"
+      },
+      {
+       "src": "/urun/tavus-kusu-desenli-mum/krem-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#180808"
+      },
+      {
+       "src": "/urun/tavus-kusu-desenli-mum/krem-4.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#a8b8b8"
+      },
+      {
+       "src": "/urun/tavus-kusu-desenli-mum/krem-5.webp",
+       "genislik": 1199,
+       "yukseklik": 1601,
+       "renk": "#583828"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/tavus-kusu-desenli-mum-p-1090497834"
+    }
+   ],
+   "kaynaklar": {
+    "trendyol": [
+     "https://www.trendyol.com/zensori/tavus-kusu-desenli-mum-p-1090497834"
+    ],
+    "hepsiburada": []
+   }
+  },
+  {
+   "slug": "dantel-dokunuslu-mum",
+   "ad": "Dantel Dokunuşlu Dekoratif Mum",
+   "marka": "zensori",
+   "kategori": "mum",
+   "koleksiyonlar": [],
+   "sira": 20,
+   "ozet": "Dantel desenli silindir mum. 15 ve 20 cm.",
+   "aciklama": [
+    "Silindir gövdeyi saran dantel deseni, mumu yanmadığında da bir dekor parçasına çevirir. Şeffaf paket ve rafya kurdeleyle gelir.",
+    "Kokusuzdur. Tek başına ya da farklı boylarla gruplayarak kullanın."
+   ],
+   "ozellikler": [
+    [
+     "Koku",
+     "Kokusuz"
+    ],
+    [
+     "Ölçü",
+     "10 × 15 cm ya da 10 × 20 cm"
+    ],
+    [
+     "Menşei",
+     "Türkiye"
+    ]
+   ],
+   "bakim": [
+    "İlk yakışta mumun yüzeyi tamamen eriyene kadar (2-3 saat) söndürmeyin; ortada çukurlaşma olmaz.",
+    "Her yakıştan önce fitili 4-5 mm kısaltın.",
+    "Hava akımı olan yerlerden, perde ve kâğıt gibi kolay tutuşan nesnelerden uzak tutun.",
+    "Isıya dayanıklı bir yüzeyde yakın, yanarken gözetimsiz bırakmayın.",
+    "Mumlar arasında 5-10 cm boşluk bırakın; çocuk ve evcil hayvanlardan uzak tutun."
+   ],
+   "secenekler": [
+    "boyut",
+    "renk"
+   ],
+   "varyantlar": [
+    {
+     "kod": "15-cm-gri",
+     "secimler": {
+      "boyut": "15 cm",
+      "renk": "Gri"
+     },
+     "renk": "Gri",
+     "fiyat": 129900,
+     "barkod": "868192207948",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/dantel-dokunuslu-mum/15-cm-gri-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#e8d8c8"
+      },
+      {
+       "src": "/urun/dantel-dokunuslu-mum/15-cm-gri-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#d8c8b8"
+      },
+      {
+       "src": "/urun/dantel-dokunuslu-mum/15-cm-gri-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#888878"
+      },
+      {
+       "src": "/urun/dantel-dokunuslu-mum/15-cm-gri-4.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#382828"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/dantel-dokunuslu-dekoratif-mum-p-1091220970"
+    },
+    {
+     "kod": "15-cm-vizon",
+     "secimler": {
+      "boyut": "15 cm",
+      "renk": "Vizon"
+     },
+     "renk": "Vizon",
+     "fiyat": 129900,
+     "barkod": "8681923080794",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/dantel-dokunuslu-mum/15-cm-vizon-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#d8c8b8"
+      },
+      {
+       "src": "/urun/dantel-dokunuslu-mum/15-cm-vizon-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#d8c8b8"
+      },
+      {
+       "src": "/urun/dantel-dokunuslu-mum/15-cm-vizon-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#786858"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/dantel-dokunuslu-dekoratif-mum-p-1091220973"
+    },
+    {
+     "kod": "20-cm-gri",
+     "secimler": {
+      "boyut": "20 cm",
+      "renk": "Gri"
+     },
+     "renk": "Gri",
+     "fiyat": 149900,
+     "barkod": "8681922084800",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/dantel-dokunuslu-mum/20-cm-gri-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#d8c8b8"
+      },
+      {
+       "src": "/urun/dantel-dokunuslu-mum/20-cm-gri-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#d8c8b8"
+      },
+      {
+       "src": "/urun/dantel-dokunuslu-mum/20-cm-gri-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#786858"
+      },
+      {
+       "src": "/urun/dantel-dokunuslu-mum/20-cm-gri-4.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#382828"
+      },
+      {
+       "src": "/urun/dantel-dokunuslu-mum/20-cm-gri-5.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#888878"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/dantel-dokunuslu-dekoratif-mum-20-cm-p-1091237695"
+    }
+   ],
+   "kaynaklar": {
+    "trendyol": [
+     "https://www.trendyol.com/zensori/dantel-dokunuslu-dekoratif-mum-p-1091220970",
+     "https://www.trendyol.com/zensori/dantel-dokunuslu-dekoratif-mum-p-1091220973",
+     "https://www.trendyol.com/zensori/dantel-dokunuslu-dekoratif-mum-20-cm-p-1091237695"
+    ],
+    "hepsiburada": []
+   }
+  },
+  {
+   "slug": "tuy-kabartmali-silindir-mum",
+   "ad": "Tüy Kabartmalı Silindir Mum",
+   "marka": "zensori",
+   "kategori": "mum",
+   "koleksiyonlar": [],
+   "sira": 21,
+   "ozet": "Altın tonlu tüy kabartmalı beyaz silindir mum. 10 ve 14 cm.",
+   "aciklama": [
+    "Beyaz gövde üzerinde altın tonlu, ince bir tüy kabartması. Yandığında desen içeriden belirginleşir.",
+    "Kokusuzdur; yemek masasında da rahatça kullanılır."
+   ],
+   "ozellikler": [
+    [
+     "Koku",
+     "Kokusuz"
+    ],
+    [
+     "Ölçü",
+     "7 × 10 cm ya da 7 × 14 cm"
+    ],
+    [
+     "Menşei",
+     "Türkiye"
+    ]
+   ],
+   "bakim": [
+    "İlk yakışta mumun yüzeyi tamamen eriyene kadar (2-3 saat) söndürmeyin; ortada çukurlaşma olmaz.",
+    "Her yakıştan önce fitili 4-5 mm kısaltın.",
+    "Hava akımı olan yerlerden, perde ve kâğıt gibi kolay tutuşan nesnelerden uzak tutun.",
+    "Isıya dayanıklı bir yüzeyde yakın, yanarken gözetimsiz bırakmayın.",
+    "Mumlar arasında 5-10 cm boşluk bırakın; çocuk ve evcil hayvanlardan uzak tutun."
+   ],
+   "secenekler": [
+    "boyut"
+   ],
+   "varyantlar": [
+    {
+     "kod": "10-cm",
+     "secimler": {
+      "boyut": "10 cm"
+     },
+     "renk": "Altın",
+     "fiyat": 59900,
+     "barkod": "868392207948",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/tuy-kabartmali-silindir-mum/10-cm-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#98b8c8"
+      },
+      {
+       "src": "/urun/tuy-kabartmali-silindir-mum/10-cm-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#584838"
+      },
+      {
+       "src": "/urun/tuy-kabartmali-silindir-mum/10-cm-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#483828"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/tuy-kabartmali-silindir-mum-p-1091562668"
+    },
+    {
+     "kod": "14-cm",
+     "secimler": {
+      "boyut": "14 cm"
+     },
+     "renk": "Altın",
+     "fiyat": 74900,
+     "barkod": "8581922084700",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/tuy-kabartmali-silindir-mum/14-cm-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#584838"
+      },
+      {
+       "src": "/urun/tuy-kabartmali-silindir-mum/14-cm-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#98b8c8"
+      },
+      {
+       "src": "/urun/tuy-kabartmali-silindir-mum/14-cm-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#483828"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/tuy-kabartmali-silindir-mum-14cm-p-1091563165"
+    }
+   ],
+   "kaynaklar": {
+    "trendyol": [
+     "https://www.trendyol.com/zensori/tuy-kabartmali-silindir-mum-p-1091562668",
+     "https://www.trendyol.com/zensori/tuy-kabartmali-silindir-mum-14cm-p-1091563165"
+    ],
+    "hepsiburada": []
+   }
+  },
+  {
+   "slug": "yuzler-tealight-mum",
+   "ad": "Yüzler Tealight Mum",
+   "marka": "zensori",
+   "kategori": "mum",
+   "koleksiyonlar": [],
+   "sira": 22,
+   "ozet": "İçi boş, yüz kabartmalı mum. İçine tealight konur.",
+   "aciklama": [
+    "Kabartma yüzlerle çevrili, içi boş bir mum. Ortasına bir tealight yerleştirdiğinizde ışık mumun gövdesinden süzülür.",
+    "Tealight bittiğinde yenisini koymanız yeterli; dış gövde uzun süre kullanılır."
+   ],
+   "ozellikler": [
+    [
+     "Tür",
+     "Tealight mumluk"
+    ],
+    [
+     "Ölçü",
+     "18 × 12 cm"
+    ],
+    [
+     "Menşei",
+     "Türkiye"
+    ]
+   ],
+   "bakim": [
+    "İlk yakışta mumun yüzeyi tamamen eriyene kadar (2-3 saat) söndürmeyin; ortada çukurlaşma olmaz.",
+    "Her yakıştan önce fitili 4-5 mm kısaltın.",
+    "Hava akımı olan yerlerden, perde ve kâğıt gibi kolay tutuşan nesnelerden uzak tutun.",
+    "Isıya dayanıklı bir yüzeyde yakın, yanarken gözetimsiz bırakmayın.",
+    "Mumlar arasında 5-10 cm boşluk bırakın; çocuk ve evcil hayvanlardan uzak tutun."
+   ],
+   "secenekler": [
+    "renk"
+   ],
+   "varyantlar": [
+    {
+     "kod": "krem",
+     "secimler": {
+      "renk": "Krem"
+     },
+     "renk": "Krem",
+     "fiyat": 110000,
+     "barkod": "868192607948",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/yuzler-tealight-mum/krem-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#a89878"
+      },
+      {
+       "src": "/urun/yuzler-tealight-mum/krem-2.webp",
+       "genislik": 1199,
+       "yukseklik": 1600,
+       "renk": "#b8c8c8"
+      },
+      {
+       "src": "/urun/yuzler-tealight-mum/krem-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#084888"
+      },
+      {
+       "src": "/urun/yuzler-tealight-mum/krem-4.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#a8c8e8"
+      },
+      {
+       "src": "/urun/yuzler-tealight-mum/krem-5.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#b8c8a8"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/yuzler-ici-bos-mum-p-1090492734"
+    }
+   ],
+   "kaynaklar": {
+    "trendyol": [
+     "https://www.trendyol.com/zensori/yuzler-ici-bos-mum-p-1090492734"
+    ],
+    "hepsiburada": []
+   }
+  },
+  {
+   "slug": "kaktus-mum",
+   "ad": "Kaktüs Mum",
+   "marka": "zensori",
+   "kategori": "mum",
+   "koleksiyonlar": [],
+   "sira": 23,
+   "ozet": "Pembe çiçekli küçük kaktüs biçiminde kokusuz mum.",
+   "aciklama": [
+    "Tepesinde pembe bir çiçek açmış yuvarlak bir kaktüs. Rafta, pencere önünde ya da çalışma masasında küçük bir neşe.",
+    "Kokusuzdur. Yakmak istemezseniz bir obje olarak da durur."
+   ],
+   "ozellikler": [
+    [
+     "Koku",
+     "Kokusuz"
+    ],
+    [
+     "Ölçü",
+     "8 × 8 cm"
+    ],
+    [
+     "Menşei",
+     "Türkiye"
+    ]
+   ],
+   "bakim": [
+    "İlk yakışta mumun yüzeyi tamamen eriyene kadar (2-3 saat) söndürmeyin; ortada çukurlaşma olmaz.",
+    "Her yakıştan önce fitili 4-5 mm kısaltın.",
+    "Hava akımı olan yerlerden, perde ve kâğıt gibi kolay tutuşan nesnelerden uzak tutun.",
+    "Isıya dayanıklı bir yüzeyde yakın, yanarken gözetimsiz bırakmayın.",
+    "Mumlar arasında 5-10 cm boşluk bırakın; çocuk ve evcil hayvanlardan uzak tutun."
+   ],
+   "secenekler": [
+    "renk"
+   ],
+   "varyantlar": [
+    {
+     "kod": "yesil",
+     "secimler": {
+      "renk": "Yeşil"
+     },
+     "renk": "Yeşil",
+     "fiyat": 64900,
+     "barkod": "8682922084800",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/kaktus-mum/yesil-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#f8e8e8"
+      },
+      {
+       "src": "/urun/kaktus-mum/yesil-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#a89888"
+      },
+      {
+       "src": "/urun/kaktus-mum/yesil-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#d89848"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/kaktus-mum-p-1091377648"
+    }
+   ],
+   "kaynaklar": {
+    "trendyol": [
+     "https://www.trendyol.com/zensori/kaktus-mum-p-1091377648"
+    ],
+    "hepsiburada": []
+   }
+  },
+  {
+   "slug": "sevimli-kopek-mum",
+   "ad": "Sevimli Köpek Mum",
+   "marka": "zensori",
+   "kategori": "mum",
+   "koleksiyonlar": [],
+   "sira": 24,
+   "ozet": "Kıvırcık tüylü, kurdeleli oturan köpek figürlü mum.",
+   "aciklama": [
+    "Kıvırcık tüyleri ve boynundaki kurdelesiyle oturan bir köpek. Çocuk odasında ya da bir rafta, yakılmadan da durur.",
+    "Kokusuzdur. Krem ve gri olmak üzere iki rengi var."
+   ],
+   "ozellikler": [
+    [
+     "Koku",
+     "Kokusuz"
+    ],
+    [
+     "Ölçü",
+     "11 × 16 cm"
+    ],
+    [
+     "Menşei",
+     "Türkiye"
+    ]
+   ],
+   "bakim": [
+    "İlk yakışta mumun yüzeyi tamamen eriyene kadar (2-3 saat) söndürmeyin; ortada çukurlaşma olmaz.",
+    "Her yakıştan önce fitili 4-5 mm kısaltın.",
+    "Hava akımı olan yerlerden, perde ve kâğıt gibi kolay tutuşan nesnelerden uzak tutun.",
+    "Isıya dayanıklı bir yüzeyde yakın, yanarken gözetimsiz bırakmayın.",
+    "Mumlar arasında 5-10 cm boşluk bırakın; çocuk ve evcil hayvanlardan uzak tutun."
+   ],
+   "secenekler": [
+    "renk"
+   ],
+   "varyantlar": [
+    {
+     "kod": "krem",
+     "secimler": {
+      "renk": "Krem"
+     },
+     "renk": "Krem",
+     "fiyat": 89900,
+     "barkod": "868592201948",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/sevimli-kopek-mum/krem-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1571,
+       "renk": "#989898"
+      },
+      {
+       "src": "/urun/sevimli-kopek-mum/krem-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#785808"
+      },
+      {
+       "src": "/urun/sevimli-kopek-mum/krem-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1601,
+       "renk": "#989898"
+      },
+      {
+       "src": "/urun/sevimli-kopek-mum/krem-4.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#181808"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/sevimli-kopek-mum-p-1091560153"
+    },
+    {
+     "kod": "gri",
+     "secimler": {
+      "renk": "Gri"
+     },
+     "renk": "Gri",
+     "fiyat": 89900,
+     "barkod": "8681920079288",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/sevimli-kopek-mum/gri-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1589,
+       "renk": "#989898"
+      },
+      {
+       "src": "/urun/sevimli-kopek-mum/gri-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#785808"
+      },
+      {
+       "src": "/urun/sevimli-kopek-mum/gri-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1601,
+       "renk": "#989898"
+      },
+      {
+       "src": "/urun/sevimli-kopek-mum/gri-4.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#181808"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/sevimli-kopek-mum-p-1091560190"
+    }
+   ],
+   "kaynaklar": {
+    "trendyol": [
+     "https://www.trendyol.com/zensori/sevimli-kopek-mum-p-1091560153",
+     "https://www.trendyol.com/zensori/sevimli-kopek-mum-p-1091560190"
+    ],
+    "hepsiburada": []
+   }
+  },
+  {
+   "slug": "mango-ekose-oval-sunum-tabagi",
+   "ad": "Mango Ekose Oval Sunum Tabağı",
+   "marka": "zensori",
+   "kategori": "sunum-servis",
+   "koleksiyonlar": [
+    "yesil-ekose"
+   ],
+   "sira": 25,
+   "ozet": "Mango ağacı çerçeve, yeşil ekose emaye iç yüzey. Üç boy.",
+   "aciklama": [
+    "Mango ağacından oval bir tabak; iç yüzeyi yeşil ekose desenli emaye ile kaplı. Yeşilin derin tonu ve ince desen, ahşabın sıcaklığıyla dengelenir.",
+    "Küçük boy takı ve anahtar için, orta boy peynir ve zeytin için, büyük boy kahvaltı sunumları için. Sofrayı yormaz."
+   ],
+   "ozellikler": [
+    [
+     "Malzeme",
+     "Mango ağacı, emaye kaplama"
+    ],
+    [
+     "Form",
+     "Oval"
+    ],
+    [
+     "Ölçü",
+     "20,5 × 10 / 25 × 13 / 30,5 × 15 cm"
+    ],
+    [
+     "Menşei",
+     "Hindistan"
+    ]
+   ],
+   "bakim": [
+    "Nemli bezle silin, hemen kurulayın.",
+    "Bulaşık makinesinde yıkamayın, suda bekletmeyin."
+   ],
+   "secenekler": [
+    "boyut"
+   ],
+   "varyantlar": [
+    {
+     "kod": "20-cm",
+     "secimler": {
+      "boyut": "20 cm"
+     },
+     "renk": "Yeşil",
+     "fiyat": 110000,
+     "barkod": "8681694153583",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/mango-ekose-oval-sunum-tabagi/20-cm-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#f8f8f8"
+      },
+      {
+       "src": "/urun/mango-ekose-oval-sunum-tabagi/20-cm-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#e8e8e8"
+      },
+      {
+       "src": "/urun/mango-ekose-oval-sunum-tabagi/20-cm-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1601,
+       "renk": "#080808"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/mango-yesil-ekoseli-sunum-tabagi-p-1066285225"
+    },
+    {
+     "kod": "25-cm",
+     "secimler": {
+      "boyut": "25 cm"
+     },
+     "renk": "Yeşil",
+     "fiyat": 129900,
+     "barkod": "8681494053576",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/mango-ekose-oval-sunum-tabagi/25-cm-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#f8f8f8"
+      },
+      {
+       "src": "/urun/mango-ekose-oval-sunum-tabagi/25-cm-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#e8e8e8"
+      },
+      {
+       "src": "/urun/mango-ekose-oval-sunum-tabagi/25-cm-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1601,
+       "renk": "#080808"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/mango-yesil-ekoseli-sunum-tabag-p-1066279211"
+    },
+    {
+     "kod": "30-cm",
+     "secimler": {
+      "boyut": "30 cm"
+     },
+     "renk": "Yeşil",
+     "fiyat": 149900,
+     "barkod": "8681696053569",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/mango-ekose-oval-sunum-tabagi/30-cm-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#080808"
+      },
+      {
+       "src": "/urun/mango-ekose-oval-sunum-tabagi/30-cm-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1601,
+       "renk": "#180808"
+      },
+      {
+       "src": "/urun/mango-ekose-oval-sunum-tabagi/30-cm-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#080808"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/mango-yesil-ekoseli-sunum-tabagi-p-1066254778"
+    }
+   ],
+   "kaynaklar": {
+    "trendyol": [
+     "https://www.trendyol.com/zensori/mango-yesil-ekoseli-sunum-tabagi-p-1066285225",
+     "https://www.trendyol.com/zensori/mango-yesil-ekoseli-sunum-tabag-p-1066279211",
+     "https://www.trendyol.com/zensori/mango-yesil-ekoseli-sunum-tabagi-p-1066254778"
+    ],
+    "hepsiburada": [
+     "https://www.hepsiburada.com/mango-yesil-ekoseli-sunum-tabagi-pm-HBC0000C1B7L1"
+    ]
+   }
+  },
+  {
+   "slug": "mango-ekose-kare-servis-tabagi",
+   "ad": "Mango Ekose Kare Servis Tabağı",
+   "marka": "zensori",
+   "kategori": "sunum-servis",
+   "koleksiyonlar": [
+    "yesil-ekose"
+   ],
+   "sira": 26,
+   "ozet": "Doğal ahşap çerçeveli kare servis tabağı, yeşil kareli iç yüzey.",
+   "aciklama": [
+    "Klasik kare desenin modern bir yorumu. Doğal ahşap çerçeve ile desenli iç yüzeyin birlikteliği, tabağı hem servis hem dekor parçası yapar.",
+    "Kahvaltı, ikram ve misafir sofraları için. Keten örtüler ve ahşap mobilyalarla birlikte en iyi halini alır."
+   ],
+   "ozellikler": [
+    [
+     "Malzeme",
+     "Mango ağacı, emaye kaplama"
+    ],
+    [
+     "Form",
+     "Kare"
+    ],
+    [
+     "Ölçü",
+     "25,5 × 25,5 cm ya da 30 × 30 cm"
+    ]
+   ],
+   "bakim": [
+    "Nemli bezle silin, hemen kurulayın.",
+    "Bulaşık makinesinde yıkamayın, suda bekletmeyin."
+   ],
+   "secenekler": [
+    "boyut"
+   ],
+   "varyantlar": [
+    {
+     "kod": "25-cm",
+     "secimler": {
+      "boyut": "25 cm"
+     },
+     "renk": "Yeşil",
+     "fiyat": 149900,
+     "barkod": "8681697053514",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/mango-ekose-kare-servis-tabagi/25-cm-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#d8d8c8"
+      },
+      {
+       "src": "/urun/mango-ekose-kare-servis-tabagi/25-cm-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#c8b8a8"
+      },
+      {
+       "src": "/urun/mango-ekose-kare-servis-tabagi/25-cm-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#d8d8c8"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/mango-yesil-ekoseli-sunum-tabagi-p-1066294112"
+    },
+    {
+     "kod": "30-cm",
+     "secimler": {
+      "boyut": "30 cm"
+     },
+     "renk": "Yeşil",
+     "fiyat": 242900,
+     "barkod": "8681694073507",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/mango-ekose-kare-servis-tabagi/30-cm-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#f8f8f8"
+      },
+      {
+       "src": "/urun/mango-ekose-kare-servis-tabagi/30-cm-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#d8d8c8"
+      },
+      {
+       "src": "/urun/mango-ekose-kare-servis-tabagi/30-cm-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#180808"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/mango-yesil-ekoseli-sunum-tabagi-p-1066268105"
+    }
+   ],
+   "kaynaklar": {
+    "trendyol": [
+     "https://www.trendyol.com/zensori/mango-yesil-ekoseli-sunum-tabagi-p-1066294112",
+     "https://www.trendyol.com/zensori/mango-yesil-ekoseli-sunum-tabagi-p-1066268105"
+    ],
+    "hepsiburada": [
+     "https://www.hepsiburada.com/mango-yesil-kare-desenli-ahsap-servis-tabagi-pm-HBC0000C1EH15"
+    ]
+   }
+  },
+  {
+   "slug": "mango-ekose-kalp-tabak",
+   "ad": "Mango Ekose Kalp Tabak",
+   "marka": "zensori",
+   "kategori": "sunum-servis",
+   "koleksiyonlar": [
+    "yesil-ekose"
+   ],
+   "sira": 27,
+   "ozet": "Kalp formunda küçük ahşap tabak, yeşil ekose iç yüzey.",
+   "aciklama": [
+    "Kalp formundaki küçük tabağın iç yüzeyindeki yeşil ekose, nostaljik bir sıcaklık taşır. Dış yüzeyde mango ağacının doğal dokusu görünür.",
+    "Kuruyemiş, takı ya da küçük objeler için. Sevgi temalı sunumlarda ve hediye kutularında da yer bulur."
+   ],
+   "ozellikler": [
+    [
+     "Malzeme",
+     "Mango ağacı, emaye kaplama"
+    ],
+    [
+     "Form",
+     "Kalp"
+    ],
+    [
+     "Ölçü",
+     "13 × 14 cm"
+    ]
+   ],
+   "bakim": [
+    "Nemli bezle silin, hemen kurulayın.",
+    "Bulaşık makinesinde yıkamayın, suda bekletmeyin."
+   ],
+   "secenekler": [
+    "renk"
+   ],
+   "varyantlar": [
+    {
+     "kod": "yesil",
+     "secimler": {
+      "renk": "Yeşil"
+     },
+     "renk": "Yeşil",
+     "fiyat": 109900,
+     "barkod": "8681694653521",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/mango-ekose-kalp-tabak/yesil-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#a87838"
+      },
+      {
+       "src": "/urun/mango-ekose-kalp-tabak/yesil-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#685838"
+      },
+      {
+       "src": "/urun/mango-ekose-kalp-tabak/yesil-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#683808"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/mango-kalp-seklinde-yesil-sunum-tabagi-p-1066051496"
+    }
+   ],
+   "kaynaklar": {
+    "trendyol": [
+     "https://www.trendyol.com/zensori/mango-kalp-seklinde-yesil-sunum-tabagi-p-1066051496"
+    ],
+    "hepsiburada": [
+     "https://www.hepsiburada.com/mango-kalp-seklinde-sunum-tabagi-pm-HBC0000C1EL68"
+    ]
+   }
+  },
+  {
+   "slug": "mango-ekose-sapli-sunum-tahtasi",
+   "ad": "Mango Ekose Saplı Sunum Tahtası",
+   "marka": "zensori",
+   "kategori": "sunum-servis",
+   "koleksiyonlar": [
+    "yesil-ekose"
+   ],
+   "sira": 28,
+   "ozet": "İpli saplı mango ağacı tahta; ortası yeşil ekose emaye. İki boy.",
+   "aciklama": [
+    "Doğal mango ağacından bir sunum tahtası. Ortadaki yeşil ekose emaye yüzey sunuma karakter katar, ahşabın sıcak dokusu sofrayı yumuşatır.",
+    "İpli sapı sayesinde kullanımdan sonra duvara ya da kancaya asılabilir. Peynir, meze ve küçük ikramlar için. Her parçanın doğal doku ve rengi farklıdır."
+   ],
+   "ozellikler": [
+    [
+     "Malzeme",
+     "Mango ağacı, emaye kaplama"
+    ],
+    [
+     "Ölçü",
+     "38 cm ya da 46 × 16 cm"
+    ],
+    [
+     "Detay",
+     "İpli kulp"
+    ]
+   ],
+   "bakim": [
+    "Nemli bezle silin, hemen kurulayın.",
+    "Bulaşık makinesinde yıkamayın, suda bekletmeyin."
+   ],
+   "secenekler": [
+    "boyut"
+   ],
+   "varyantlar": [
+    {
+     "kod": "38-cm",
+     "secimler": {
+      "boyut": "38 cm"
+     },
+     "renk": "Yeşil",
+     "fiyat": 159900,
+     "barkod": "8681692053545",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/mango-ekose-sapli-sunum-tahtasi/38-cm-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#d8c8b8"
+      },
+      {
+       "src": "/urun/mango-ekose-sapli-sunum-tahtasi/38-cm-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1800,
+       "renk": "#98a878"
+      },
+      {
+       "src": "/urun/mango-ekose-sapli-sunum-tahtasi/38-cm-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1800,
+       "renk": "#080808"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/mango-sapli-ahsap-yesil-ekoseli-sunum-tahtasi-p-1066111346"
+    },
+    {
+     "kod": "46-cm",
+     "secimler": {
+      "boyut": "46 cm"
+     },
+     "renk": "Yeşil",
+     "fiyat": 179900,
+     "barkod": "8681674053538",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/mango-ekose-sapli-sunum-tahtasi/46-cm-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#b8b8a8"
+      },
+      {
+       "src": "/urun/mango-ekose-sapli-sunum-tahtasi/46-cm-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#d8c8a8"
+      },
+      {
+       "src": "/urun/mango-ekose-sapli-sunum-tahtasi/46-cm-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#b89878"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/mango-sapli-ahsap-yesil-ekoseli-sunum-tahtasi-p-1066072137"
+    }
+   ],
+   "kaynaklar": {
+    "trendyol": [
+     "https://www.trendyol.com/zensori/mango-sapli-ahsap-yesil-ekoseli-sunum-tahtasi-p-1066111346",
+     "https://www.trendyol.com/zensori/mango-sapli-ahsap-yesil-ekoseli-sunum-tahtasi-p-1066072137"
+    ],
+    "hepsiburada": [
+     "https://www.hepsiburada.com/mango-ahsap-sapli-sunum-tahtasi-pm-HBC0000C1C6PH"
+    ]
+   }
+  },
+  {
+   "slug": "cam-agaci-ekose-servis-tabagi",
+   "ad": "Çam Ağacı Ekose Servis Tabağı",
+   "marka": "zensori",
+   "kategori": "sunum-servis",
+   "koleksiyonlar": [
+    "yesil-ekose",
+    "yeni-yil-sofrasi"
+   ],
+   "sira": 29,
+   "ozet": "Çam ağacı formlu, ahşap çerçeveli, yeşil ekose servis tabağı.",
+   "aciklama": [
+    "Doğal ahşap çerçevesi ve yeşil kareli iç yüzeyiyle çam ağacı formunda bir servis tabağı. Parlak, desenli taban sade bir sofraya hareket katar.",
+    "Kahvaltıda ve sezonluk sunumlarda; peynir, kurabiye ya da küçük ikramlıklar için. Boş haliyle de dekoratif bir obje."
+   ],
+   "ozellikler": [
+    [
+     "Malzeme",
+     "Mango ağacı, emaye kaplama"
+    ],
+    [
+     "Form",
+     "Çam ağacı"
+    ],
+    [
+     "Ölçü",
+     "24,5 × 25,5 cm"
+    ]
+   ],
+   "bakim": [
+    "Nemli bezle silin, hemen kurulayın.",
+    "Bulaşık makinesinde yıkamayın, suda bekletmeyin."
+   ],
+   "secenekler": [
+    "renk"
+   ],
+   "varyantlar": [
+    {
+     "kod": "yesil",
+     "secimler": {
+      "renk": "Yeşil"
+     },
+     "renk": "Yeşil",
+     "fiyat": 149900,
+     "barkod": "8681694653491",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/cam-agaci-ekose-servis-tabagi/yesil-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#381808"
+      },
+      {
+       "src": "/urun/cam-agaci-ekose-servis-tabagi/yesil-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1200,
+       "renk": "#987848"
+      },
+      {
+       "src": "/urun/cam-agaci-ekose-servis-tabagi/yesil-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1601,
+       "renk": "#080808"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/mango-agacindan-agac-modeli-sunum-tabagi-p-1065998240"
+    }
+   ],
+   "kaynaklar": {
+    "trendyol": [
+     "https://www.trendyol.com/zensori/mango-agacindan-agac-modeli-sunum-tabagi-p-1065998240"
+    ],
+    "hepsiburada": [
+     "https://www.hepsiburada.com/cam-agaci-formlu-kareli-dekoratif-servis-tabagi-pm-HBC0000C1FRT0"
+    ]
+   }
+  },
+  {
+   "slug": "kar-tanesi-desenli-tabak",
+   "ad": "Kar Tanesi Desenli Tabak",
+   "marka": "zensori",
+   "kategori": "sunum-servis",
+   "koleksiyonlar": [
+    "yeni-yil-sofrasi"
+   ],
+   "sira": 30,
+   "ozet": "Kar tanesi motifli yuvarlak tabak, altın tonlu çerçeve.",
+   "aciklama": [
+    "Kar tanesi desenleriyle süslü yuvarlak bir tabak. Toprak tonlarındaki iç yüzey ve altın renkli çerçeve, mevsime uygun ama abartısız bir şıklık getirir.",
+    "Sehpada, konsolda ya da davet sofrasında; mumlar, küçük objeler veya ikramlar için."
+   ],
+   "ozellikler": [
+    [
+     "Malzeme",
+     "Mango ağacı, emaye kaplama"
+    ],
+    [
+     "Form",
+     "Yuvarlak"
+    ],
+    [
+     "Ölçü",
+     "25,5 cm"
+    ]
+   ],
+   "bakim": [
+    "Nemli bezle silin, hemen kurulayın.",
+    "Bulaşık makinesinde yıkamayın, suda bekletmeyin."
+   ],
+   "secenekler": [
+    "renk"
+   ],
+   "varyantlar": [
+    {
+     "kod": "kirmizi",
+     "secimler": {
+      "renk": "Kırmızı"
+     },
+     "renk": "Kırmızı",
+     "fiyat": 139900,
+     "barkod": "8681694023620",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/kar-tanesi-desenli-tabak/kirmizi-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#e8c8a8"
+      },
+      {
+       "src": "/urun/kar-tanesi-desenli-tabak/kirmizi-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1601,
+       "renk": "#080808"
+      },
+      {
+       "src": "/urun/kar-tanesi-desenli-tabak/kirmizi-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#987858"
+      },
+      {
+       "src": "/urun/kar-tanesi-desenli-tabak/kirmizi-4.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#080808"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/mango-ahsap-yuvarlak-sunum-tabagi-p-1066074676"
+    }
+   ],
+   "kaynaklar": {
+    "trendyol": [
+     "https://www.trendyol.com/zensori/mango-ahsap-yuvarlak-sunum-tabagi-p-1066074676"
+    ],
+    "hepsiburada": [
+     "https://www.hepsiburada.com/kar-tanesi-desenli-yuvarlak-dekoratif-tabak-pm-HBC0000C18ZCV"
+    ]
+   }
+  },
+  {
+   "slug": "sus-desenli-mango-tabak",
+   "ad": "Süs Desenli Mango Tabak",
+   "marka": "zensori",
+   "kategori": "sunum-servis",
+   "koleksiyonlar": [
+    "yeni-yil-sofrasi"
+   ],
+   "sira": 31,
+   "ozet": "Beyaz zemin üzerinde kırmızı süs desenleri, sarı ahşap çerçeve.",
+   "aciklama": [
+    "Beyaz zemin üzerindeki kırmızı süs desenleri mevsimin neşesini sade bir dille taşır. Ahşap kenar çerçevesi tabağa sıcaklık verir.",
+    "Yeni yıl sunumlarında, hediye paketlerinin yanında ya da kahvaltı sofrasında. Fotoğraf çekimlerinde fon olarak da kullanılır."
+   ],
+   "ozellikler": [
+    [
+     "Malzeme",
+     "Mango ağacı, emaye kaplama"
+    ],
+    [
+     "Form",
+     "Yuvarlak"
+    ],
+    [
+     "Ölçü",
+     "21 cm"
+    ]
+   ],
+   "bakim": [
+    "Nemli bezle silin, hemen kurulayın.",
+    "Bulaşık makinesinde yıkamayın, suda bekletmeyin."
+   ],
+   "secenekler": [
+    "renk"
+   ],
+   "varyantlar": [
+    {
+     "kod": "kirmizi",
+     "secimler": {
+      "renk": "Kırmızı"
+     },
+     "renk": "Kırmızı",
+     "fiyat": 139900,
+     "barkod": "8681694053637",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/sus-desenli-mango-tabak/kirmizi-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1601,
+       "renk": "#080808"
+      },
+      {
+       "src": "/urun/sus-desenli-mango-tabak/kirmizi-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#e8e8e8"
+      },
+      {
+       "src": "/urun/sus-desenli-mango-tabak/kirmizi-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#f8f8f8"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/mango-ahsap-yuvarlak-sunum-tabagi-p-1066252047"
+    }
+   ],
+   "kaynaklar": {
+    "trendyol": [
+     "https://www.trendyol.com/zensori/mango-ahsap-yuvarlak-sunum-tabagi-p-1066252047"
+    ],
+    "hepsiburada": [
+     "https://www.hepsiburada.com/mango-ahsap-dekoratif-tabak-pm-HBC0000C1RBO8"
+    ]
+   }
+  },
+  {
+   "slug": "kurabiye-adam-sunum-tabagi",
+   "ad": "Kurabiye Adam Sunum Tabağı",
+   "marka": "zensori",
+   "kategori": "sunum-servis",
+   "koleksiyonlar": [
+    "yeni-yil-sofrasi"
+   ],
+   "sira": 32,
+   "ozet": "54 × 49 cm, kurabiye adam formlu büyük sunum tabağı.",
+   "aciklama": [
+    "Kurabiye adam formundaki bu büyük tabak, geniş yüzeyiyle sofranın ortasında güçlü bir odak noktası olur. Krem gövde ve altın tonlu kenar.",
+    "Kalabalık kahvaltılar, yeni yıl sofraları ya da mutfak adasında sergilemek için. Küçük aksesuar tabaklarından boyuyla ayrışır."
+   ],
+   "ozellikler": [
+    [
+     "Form",
+     "Kurabiye adam"
+    ],
+    [
+     "Ölçü",
+     "54 × 49 cm"
+    ]
+   ],
+   "bakim": [
+    "Nemli bezle silin, hemen kurulayın.",
+    "Bulaşık makinesinde yıkamayın, suda bekletmeyin."
+   ],
+   "secenekler": [
+    "renk"
+   ],
+   "varyantlar": [
+    {
+     "kod": "krem",
+     "secimler": {
+      "renk": "Krem"
+     },
+     "renk": "Krem",
+     "fiyat": 324900,
+     "barkod": "8681694051484",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/kurabiye-adam-sunum-tabagi/krem-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#d8d8d8"
+      },
+      {
+       "src": "/urun/kurabiye-adam-sunum-tabagi/krem-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#e8e8e8"
+      },
+      {
+       "src": "/urun/kurabiye-adam-sunum-tabagi/krem-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#e8e8f8"
+      },
+      {
+       "src": "/urun/kurabiye-adam-sunum-tabagi/krem-4.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#d8d8d8"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/mango-ahsap-kurabiye-adam-motifli-sunum-tahtasi-p-1065996990"
+    }
+   ],
+   "kaynaklar": {
+    "trendyol": [
+     "https://www.trendyol.com/zensori/mango-ahsap-kurabiye-adam-motifli-sunum-tahtasi-p-1065996990"
+    ],
+    "hepsiburada": [
+     "https://www.hepsiburada.com/gingerbread-formlu-buyuk-dekoratif-tabak-pm-HBC0000C1QV4X"
+    ]
+   }
+  },
+  {
+   "slug": "mango-yildiz-sunum-tabagi",
+   "ad": "Mango Yıldız Sunum Tabağı",
+   "marka": "zensori",
+   "kategori": "sunum-servis",
+   "koleksiyonlar": [
+    "yeni-yil-sofrasi"
+   ],
+   "sira": 33,
+   "ozet": "Yıldız formlu mango ağacı tabak, benekli emaye iç yüzey. İki boy.",
+   "aciklama": [
+    "Yıldız formundaki mango ağacı tabağın iç yüzeyi benekli, parlak bir emaye ile kaplı. Mat toprak tonlu çerçeve ile parlak sır yan yana durur.",
+    "Takı, anahtar, doğal taşlar ya da küçük mumlar için. Sehpa, konsol veya komodin üzerinde sade bir odak noktası."
+   ],
+   "ozellikler": [
+    [
+     "Malzeme",
+     "Mango ağacı, emaye kaplama"
+    ],
+    [
+     "Form",
+     "Yıldız"
+    ],
+    [
+     "Ölçü",
+     "25 cm ya da 28,5 cm"
+    ]
+   ],
+   "bakim": [
+    "Nemli bezle silin, hemen kurulayın.",
+    "Bulaşık makinesinde yıkamayın, suda bekletmeyin."
+   ],
+   "secenekler": [
+    "boyut"
+   ],
+   "varyantlar": [
+    {
+     "kod": "25-cm",
+     "secimler": {
+      "boyut": "25 cm"
+     },
+     "renk": "Mavi",
+     "fiyat": 149900,
+     "barkod": "8681694058460",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/mango-yildiz-sunum-tabagi/25-cm-1.webp",
+       "genislik": 1199,
+       "yukseklik": 1600,
+       "renk": "#382818"
+      },
+      {
+       "src": "/urun/mango-yildiz-sunum-tabagi/25-cm-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#a88868"
+      },
+      {
+       "src": "/urun/mango-yildiz-sunum-tabagi/25-cm-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#180808"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/mango-ahsap-yildiz-sunum-tabagi-p-1066056383"
+    },
+    {
+     "kod": "28-5-cm",
+     "secimler": {
+      "boyut": "28,5 cm"
+     },
+     "renk": "Gri",
+     "fiyat": 169900,
+     "barkod": "8681694453453",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/mango-yildiz-sunum-tabagi/28-5-cm-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#482808"
+      },
+      {
+       "src": "/urun/mango-yildiz-sunum-tabagi/28-5-cm-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#c8b8a8"
+      },
+      {
+       "src": "/urun/mango-yildiz-sunum-tabagi/28-5-cm-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#c8b8a8"
+      },
+      {
+       "src": "/urun/mango-yildiz-sunum-tabagi/28-5-cm-4.webp",
+       "genislik": 1200,
+       "yukseklik": 1601,
+       "renk": "#c8b8a8"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/mango-ahsap-yildiz-sunum-tabagi-p-1066313850"
+    }
+   ],
+   "kaynaklar": {
+    "trendyol": [
+     "https://www.trendyol.com/zensori/mango-ahsap-yildiz-sunum-tabagi-p-1066056383",
+     "https://www.trendyol.com/zensori/mango-ahsap-yildiz-sunum-tabagi-p-1066313850"
+    ],
+    "hepsiburada": [
+     "https://www.hepsiburada.com/mango-emaye-kaplama-yildiz-sunum-tabagi-pm-HBC0000C1TKFA"
+    ]
+   }
+  },
+  {
+   "slug": "mango-ahsap-yuvarlak-tabak",
+   "ad": "Mango Ahşap Yuvarlak Tabak",
+   "marka": "zensori",
+   "kategori": "sunum-servis",
+   "koleksiyonlar": [],
+   "sira": 34,
+   "ozet": "Doğal ahşap üzerinde minimal beyaz çizim. İki boy.",
+   "aciklama": [
+    "Mango ağacının sıcak dokusu, yüzeydeki minimal beyaz çizimle buluşuyor. Ahşap damarları her parçayı farklı kılar.",
+    "Küçük boy kahvaltıda peynir ve zeytin için, büyük boy sehpada küçük objeler ya da ikramlar için."
+   ],
+   "ozellikler": [
+    [
+     "Malzeme",
+     "Mango ağacı"
+    ],
+    [
+     "Form",
+     "Yuvarlak"
+    ],
+    [
+     "Ölçü",
+     "20,5 cm ya da 25 cm"
+    ]
+   ],
+   "bakim": [
+    "Nemli bezle silin, hemen kurulayın.",
+    "Bulaşık makinesinde yıkamayın, suda bekletmeyin."
+   ],
+   "secenekler": [
+    "boyut"
+   ],
+   "varyantlar": [
+    {
+     "kod": "20-5-cm",
+     "secimler": {
+      "boyut": "20,5 cm"
+     },
+     "renk": "Doğal",
+     "fiyat": 110000,
+     "barkod": "8681694053668",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/mango-ahsap-yuvarlak-tabak/20-5-cm-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#b8b8a8"
+      },
+      {
+       "src": "/urun/mango-ahsap-yuvarlak-tabak/20-5-cm-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#e8e8d8"
+      },
+      {
+       "src": "/urun/mango-ahsap-yuvarlak-tabak/20-5-cm-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#c8c8b8"
+      },
+      {
+       "src": "/urun/mango-ahsap-yuvarlak-tabak/20-5-cm-4.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#d8c8b8"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/mango-ahsap-yuvarlak-sunum-tabagi-p-1065925486"
+    },
+    {
+     "kod": "25-cm",
+     "secimler": {
+      "boyut": "25 cm"
+     },
+     "renk": "Doğal",
+     "fiyat": 129900,
+     "barkod": "8681694053651",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/mango-ahsap-yuvarlak-tabak/25-cm-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#a8b8b8"
+      },
+      {
+       "src": "/urun/mango-ahsap-yuvarlak-tabak/25-cm-2.webp",
+       "genislik": 1197,
+       "yukseklik": 1600,
+       "renk": "#080808"
+      },
+      {
+       "src": "/urun/mango-ahsap-yuvarlak-tabak/25-cm-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#98b8b8"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/mango-ahsap-yuvarlak-sunum-tabagi-p-1066067268"
+    }
+   ],
+   "kaynaklar": {
+    "trendyol": [
+     "https://www.trendyol.com/zensori/mango-ahsap-yuvarlak-sunum-tabagi-p-1065925486",
+     "https://www.trendyol.com/zensori/mango-ahsap-yuvarlak-sunum-tabagi-p-1066067268"
+    ],
+    "hepsiburada": [
+     "https://www.hepsiburada.com/mango-ahsap-yuvarlak-dekoratif-tabak-pm-HBC0000C1R8HA"
+    ]
+   }
+  },
+  {
+   "slug": "mango-ahsap-sapli-kesme-tahtasi",
+   "ad": "Mango Ahşap Saplı Kesme Tahtası",
+   "marka": "zensori",
+   "kategori": "sunum-servis",
+   "koleksiyonlar": [],
+   "sira": 35,
+   "ozet": "46 × 30 cm, beyaz ağaç figürlü, ipli saplı mango ağacı tahta.",
+   "aciklama": [
+    "Rustik bir kesme ve sunum tahtası. Sol kenardaki beyaz ağaç figürleri ve uçtaki askı ipi sıcak bir görünüm verir.",
+    "Mutfakta kesme tahtası, sofrada sunum tahtası, duvarda dekoratif bir obje. Her parçanın ahşap deseni kendine özgüdür."
+   ],
+   "ozellikler": [
+    [
+     "Malzeme",
+     "Mango ağacı"
+    ],
+    [
+     "Ölçü",
+     "46 × 30 cm"
+    ],
+    [
+     "Detay",
+     "Askı ipi"
+    ]
+   ],
+   "bakim": [
+    "Nemli bezle silin, hemen kurulayın.",
+    "Bulaşık makinesinde yıkamayın, suda bekletmeyin."
+   ],
+   "secenekler": [
+    "renk"
+   ],
+   "varyantlar": [
+    {
+     "kod": "dogal",
+     "secimler": {
+      "renk": "Doğal"
+     },
+     "renk": "Doğal",
+     "fiyat": 189900,
+     "barkod": "8681694053736",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/mango-ahsap-sapli-kesme-tahtasi/dogal-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#c8c8b8"
+      },
+      {
+       "src": "/urun/mango-ahsap-sapli-kesme-tahtasi/dogal-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#c8c8b8"
+      },
+      {
+       "src": "/urun/mango-ahsap-sapli-kesme-tahtasi/dogal-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#988868"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/mango-agaci-sunum-tepsisi-p-1065918217"
+    }
+   ],
+   "kaynaklar": {
+    "trendyol": [
+     "https://www.trendyol.com/zensori/mango-agaci-sunum-tepsisi-p-1065918217"
+    ],
+    "hepsiburada": [
+     "https://www.hepsiburada.com/mango-ahsap-sapli-kesmee-sunum-tahtasi-pm-HBC0000C1RAZD"
+    ]
+   }
+  },
+  {
+   "slug": "ceviz-kesme-tahtasi",
+   "ad": "Ceviz Kesme ve Sunum Tahtası",
+   "marka": "zensori",
+   "kategori": "sunum-servis",
+   "koleksiyonlar": [],
+   "sira": 36,
+   "ozet": "Tek parça ceviz ağacından, delikli saplı kesme ve sunum tahtası.",
+   "aciklama": [
+    "Tek parça ceviz ağacından kesilmiş bir tahta; birleştirme yeri yoktur. Ceviz damarları her tahtada farklı düşer.",
+    "Ekmek, peynir ve şarküteri sunumları için. Delikli sapından asılarak saklanır."
+   ],
+   "ozellikler": [
+    [
+     "Malzeme",
+     "Ceviz ağacı, tek parça"
+    ],
+    [
+     "Ölçü",
+     "40 × 18 cm ya da 40 × 20 cm"
+    ],
+    [
+     "Gıda teması",
+     "Uygun"
+    ]
+   ],
+   "bakim": [
+    "Nemli bezle silin, hemen kurulayın.",
+    "Bulaşık makinesinde yıkamayın, suda bekletmeyin."
+   ],
+   "secenekler": [
+    "model"
+   ],
+   "varyantlar": [
+    {
+     "kod": "acik-ton-40-x-18-cm",
+     "secimler": {
+      "model": "Açık ton, 40 × 18 cm"
+     },
+     "renk": "Ceviz",
+     "fiyat": 120000,
+     "barkod": "8683169040061",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/ceviz-kesme-tahtasi/acik-ton-40-x-18-cm-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#e8e8e8"
+      },
+      {
+       "src": "/urun/ceviz-kesme-tahtasi/acik-ton-40-x-18-cm-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#c8c8c8"
+      },
+      {
+       "src": "/urun/ceviz-kesme-tahtasi/acik-ton-40-x-18-cm-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#c8c8c8"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/tek-parca-ceviz-agacindan-kesme-tahtasi-sunumluk-p-1149427168"
+    },
+    {
+     "kod": "koyu-ton-40-x-20-cm",
+     "secimler": {
+      "model": "Koyu ton, 40 × 20 cm"
+     },
+     "renk": "Ceviz",
+     "fiyat": 120000,
+     "barkod": "8685169040054",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/ceviz-kesme-tahtasi/koyu-ton-40-x-20-cm-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#c8b8a8"
+      },
+      {
+       "src": "/urun/ceviz-kesme-tahtasi/koyu-ton-40-x-20-cm-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1585,
+       "renk": "#b8a888"
+      },
+      {
+       "src": "/urun/ceviz-kesme-tahtasi/koyu-ton-40-x-20-cm-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#c8a888"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/zensori/tek-parca-ceviz-agacindan-kesme-tahtasi-sunumluk-p-1120137178"
+    }
+   ],
+   "kaynaklar": {
+    "trendyol": [
+     "https://www.trendyol.com/zensori/tek-parca-ceviz-agacindan-kesme-tahtasi-sunumluk-p-1149427168",
+     "https://www.trendyol.com/zensori/tek-parca-ceviz-agacindan-kesme-tahtasi-sunumluk-p-1120137178"
+    ],
+    "hepsiburada": []
+   }
+  },
+  {
+   "slug": "arow-zensori-fluid-yagdanlik",
+   "ad": "Zensori Fluid Cam Yağdanlık, 1 L",
+   "marka": "AROW",
+   "kategori": "mutfak",
+   "koleksiyonlar": [],
+   "sira": 37,
+   "ozet": "Ölçek çizgili, kulplu, bir litrelik borosilikat cam yağdanlık.",
+   "aciklama": [
+    "AROW'un Zensori serisinden bir litrelik borosilikat cam yağdanlık. Gövdedeki ölçek çizgileri ne kadar yağ kaldığını gösterir; renkli taban ve kapak gövdenin tonuyla eşleşir.",
+    "Zeytinyağı, ayçiçek yağı ya da sirke için. Gıdayla temasa uygundur."
+   ],
+   "ozellikler": [
+    [
+     "Malzeme",
+     "Borosilikat cam"
+    ],
+    [
+     "Hacim",
+     "1 L"
+    ],
+    [
+     "Gıda teması",
+     "Uygun"
+    ],
+    [
+     "Model kodu",
+     "TR6512"
+    ]
+   ],
+   "bakim": [
+    "Elde yıkanmalıdır.",
+    "Yağ değişiminde iyice kurutup yeniden doldurun."
+   ],
+   "secenekler": [
+    "renk"
+   ],
+   "varyantlar": [
+    {
+     "kod": "beyaz",
+     "secimler": {
+      "renk": "Beyaz"
+     },
+     "renk": "Beyaz",
+     "fiyat": 75000,
+     "barkod": "8681922079248",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/arow-zensori-fluid-yagdanlik/beyaz-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#d8d8c8"
+      },
+      {
+       "src": "/urun/arow-zensori-fluid-yagdanlik/beyaz-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#c8c8c8"
+      },
+      {
+       "src": "/urun/arow-zensori-fluid-yagdanlik/beyaz-3.webp",
+       "genislik": 839,
+       "yukseklik": 1157,
+       "renk": "#f8f8f8"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/arow/zensori-fluid-borosilikat-cam-yagdanlik-1-litre-p-1120947682"
+    },
+    {
+     "kod": "gri",
+     "secimler": {
+      "renk": "Gri"
+     },
+     "renk": "Gri",
+     "fiyat": 75000,
+     "barkod": "8681922079255",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/arow-zensori-fluid-yagdanlik/gri-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1579,
+       "renk": "#f8f8f8"
+      },
+      {
+       "src": "/urun/arow-zensori-fluid-yagdanlik/gri-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#b8b8b8"
+      },
+      {
+       "src": "/urun/arow-zensori-fluid-yagdanlik/gri-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#b8a898"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/arow/zensori-fluid-borosilikat-cam-yagdanlik-1-litre-p-1120947655"
+    },
+    {
+     "kod": "sari",
+     "secimler": {
+      "renk": "Sarı"
+     },
+     "renk": "Sarı",
+     "fiyat": 75000,
+     "barkod": "8681922079262",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/arow-zensori-fluid-yagdanlik/sari-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1598,
+       "renk": "#f8f8f8"
+      },
+      {
+       "src": "/urun/arow-zensori-fluid-yagdanlik/sari-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#d8d8c8"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/arow/zensori-fluid-borosilikat-cam-yagdanlik-1-litre-p-1120947637"
+    }
+   ],
+   "kaynaklar": {
+    "trendyol": [
+     "https://www.trendyol.com/arow/zensori-fluid-borosilikat-cam-yagdanlik-1-litre-p-1120947682",
+     "https://www.trendyol.com/arow/zensori-fluid-borosilikat-cam-yagdanlik-1-litre-p-1120947655",
+     "https://www.trendyol.com/arow/zensori-fluid-borosilikat-cam-yagdanlik-1-litre-p-1120947637"
+    ],
+    "hepsiburada": []
+   }
+  },
+  {
+   "slug": "arow-zensori-soft-yagdanlik",
+   "ad": "Zensori Soft Cam Yağdanlık, 1 L",
+   "marka": "AROW",
+   "kategori": "mutfak",
+   "koleksiyonlar": [],
+   "sira": 38,
+   "ozet": "Yumuşak hatlı gövde, kulplu ve ölçekli borosilikat cam yağdanlık.",
+   "aciklama": [
+    "Zensori serisinin yumuşak hatlı modeli. Kulplu gövde ve ölçek çizgileri günlük kullanımı kolaylaştırır.",
+    "Bir litrelik borosilikat cam; gıdayla temasa uygundur. Beyaz, gri ve sarı tonları var."
+   ],
+   "ozellikler": [
+    [
+     "Malzeme",
+     "Borosilikat cam"
+    ],
+    [
+     "Hacim",
+     "1 L"
+    ],
+    [
+     "Gıda teması",
+     "Uygun"
+    ],
+    [
+     "Model kodu",
+     "TR6516"
+    ]
+   ],
+   "bakim": [
+    "Elde yıkanmalıdır.",
+    "Yağ değişiminde iyice kurutup yeniden doldurun."
+   ],
+   "secenekler": [
+    "renk"
+   ],
+   "varyantlar": [
+    {
+     "kod": "beyaz",
+     "secimler": {
+      "renk": "Beyaz"
+     },
+     "renk": "Beyaz",
+     "fiyat": 75000,
+     "barkod": "8681922079286",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/arow-zensori-soft-yagdanlik/beyaz-1.webp",
+       "genislik": 933,
+       "yukseklik": 1354,
+       "renk": "#f8f8f8"
+      },
+      {
+       "src": "/urun/arow-zensori-soft-yagdanlik/beyaz-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1593,
+       "renk": "#b8a8a8"
+      },
+      {
+       "src": "/urun/arow-zensori-soft-yagdanlik/beyaz-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#c8c8c8"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/arow/zensori-soft-borosilikat-cam-yagdanlik-1-litre-p-1120994923"
+    },
+    {
+     "kod": "gri",
+     "secimler": {
+      "renk": "Gri"
+     },
+     "renk": "Gri",
+     "fiyat": 75000,
+     "barkod": "8681922079279",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/arow-zensori-soft-yagdanlik/gri-1.webp",
+       "genislik": 946,
+       "yukseklik": 1443,
+       "renk": "#f8f8f8"
+      },
+      {
+       "src": "/urun/arow-zensori-soft-yagdanlik/gri-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1599,
+       "renk": "#787868"
+      },
+      {
+       "src": "/urun/arow-zensori-soft-yagdanlik/gri-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#686868"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/arow/zensori-soft-borosilikat-cam-yagdanlik-1-litre-p-1120994925"
+    },
+    {
+     "kod": "sari",
+     "secimler": {
+      "renk": "Sarı"
+     },
+     "renk": "Sarı",
+     "fiyat": 59900,
+     "barkod": "8681922079293",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/arow-zensori-soft-yagdanlik/sari-1.webp",
+       "genislik": 895,
+       "yukseklik": 1222,
+       "renk": "#f8f8f8"
+      },
+      {
+       "src": "/urun/arow-zensori-soft-yagdanlik/sari-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#a8a8a8"
+      },
+      {
+       "src": "/urun/arow-zensori-soft-yagdanlik/sari-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#b8b8b8"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/arow/zensori-soft-borosilikat-cam-yagdanlik-1-litre-p-1120995564"
+    }
+   ],
+   "kaynaklar": {
+    "trendyol": [
+     "https://www.trendyol.com/arow/zensori-soft-borosilikat-cam-yagdanlik-1-litre-p-1120994923",
+     "https://www.trendyol.com/arow/zensori-soft-borosilikat-cam-yagdanlik-1-litre-p-1120994925",
+     "https://www.trendyol.com/arow/zensori-soft-borosilikat-cam-yagdanlik-1-litre-p-1120995564"
+    ],
+    "hepsiburada": []
+   }
+  },
+  {
+   "slug": "arow-zensori-mary-yagdanlik",
+   "ad": "Zensori Mary Cam Yağdanlık, 1 L",
+   "marka": "AROW",
+   "kategori": "mutfak",
+   "koleksiyonlar": [],
+   "sira": 39,
+   "ozet": "Şeffaf, kulplu ve kapaklı bir litrelik cam yağdanlık.",
+   "aciklama": [
+    "Şeffaf borosilikat camdan, geniş ağızlı ve kulplu bir model. Kolay dolar, kolay temizlenir.",
+    "Yağ, sirke ya da limonata için. Gıdayla temasa uygundur."
+   ],
+   "ozellikler": [
+    [
+     "Malzeme",
+     "Borosilikat cam"
+    ],
+    [
+     "Hacim",
+     "1 L"
+    ],
+    [
+     "Gıda teması",
+     "Uygun"
+    ],
+    [
+     "Model kodu",
+     "TR6816"
+    ]
+   ],
+   "bakim": [
+    "Elde yıkanmalıdır.",
+    "Yağ değişiminde iyice kurutup yeniden doldurun."
+   ],
+   "secenekler": [
+    "renk"
+   ],
+   "varyantlar": [
+    {
+     "kod": "seffaf",
+     "secimler": {
+      "renk": "Şeffaf"
+     },
+     "renk": "Şeffaf",
+     "fiyat": 50000,
+     "barkod": "8681922082293",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/arow-zensori-mary-yagdanlik/seffaf-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#d8c8c8"
+      },
+      {
+       "src": "/urun/arow-zensori-mary-yagdanlik/seffaf-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#c8c8c8"
+      },
+      {
+       "src": "/urun/arow-zensori-mary-yagdanlik/seffaf-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1600,
+       "renk": "#c8c8c8"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/arow/zensori-mary-borosilikat-cam-yagdanlik-1-litre-p-1120998537"
+    }
+   ],
+   "kaynaklar": {
+    "trendyol": [
+     "https://www.trendyol.com/arow/zensori-mary-borosilikat-cam-yagdanlik-1-litre-p-1120998537"
+    ],
+    "hepsiburada": []
+   }
+  },
+  {
+   "slug": "arow-gauzy-cam-yaglik",
+   "ad": "Gauzy Borosilikat Cam Yağlık",
+   "marka": "AROW",
+   "kategori": "mutfak",
+   "koleksiyonlar": [],
+   "sira": 40,
+   "ozet": "İnce kulplu, renkli tabanlı borosilikat cam yağlık. 350 ve 600 ml.",
+   "aciklama": [
+    "İnce cam kulpu ve renkli tabanıyla hafif görünümlü bir yağlık.",
+    "Sofrada zeytinyağı, salata sosu ya da nar ekşisi için. 350 ml ve 600 ml boyları var."
+   ],
+   "ozellikler": [
+    [
+     "Malzeme",
+     "Borosilikat cam"
+    ],
+    [
+     "Hacim",
+     "350 ml ya da 600 ml"
+    ]
+   ],
+   "bakim": [
+    "Elde yıkanmalıdır.",
+    "Yağ değişiminde iyice kurutup yeniden doldurun."
+   ],
+   "secenekler": [
+    "hacim",
+    "renk"
+   ],
+   "varyantlar": [
+    {
+     "kod": "350-ml-yesil",
+     "secimler": {
+      "hacim": "350 ml",
+      "renk": "Yeşil"
+     },
+     "renk": "Yeşil",
+     "fiyat": 29900,
+     "barkod": "EVD8681922085799",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/arow-gauzy-cam-yaglik/350-ml-yesil-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1201,
+       "renk": "#f8f8e8"
+      },
+      {
+       "src": "/urun/arow-gauzy-cam-yaglik/350-ml-yesil-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1202,
+       "renk": "#e8e8d8"
+      },
+      {
+       "src": "/urun/arow-gauzy-cam-yaglik/350-ml-yesil-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1201,
+       "renk": "#e8e8d8"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/arow/gauzy-borosilikat-cam-yaglik-seffaf-yesil-350-ml-p-1195759297"
+    },
+    {
+     "kod": "350-ml-gri",
+     "secimler": {
+      "hacim": "350 ml",
+      "renk": "Gri"
+     },
+     "renk": "Gri",
+     "fiyat": 49900,
+     "barkod": "8681922085812",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/arow-gauzy-cam-yaglik/350-ml-gri-1.webp",
+       "genislik": 1027,
+       "yukseklik": 1794,
+       "renk": "#e8e8f8"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/arow/gauzy-350-ml-borosilikat-yaglik-p-1200315690"
+    },
+    {
+     "kod": "600-ml-yesil",
+     "secimler": {
+      "hacim": "600 ml",
+      "renk": "Yeşil"
+     },
+     "renk": "Yeşil",
+     "fiyat": 54900,
+     "barkod": "8681922085744",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/arow-gauzy-cam-yaglik/600-ml-yesil-1.webp",
+       "genislik": 1099,
+       "yukseklik": 1800,
+       "renk": "#f8f8f8"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/arow/gauzy-600-ml-borosilikat-yaglik-p-1200315539"
+    }
+   ],
+   "kaynaklar": {
+    "trendyol": [
+     "https://www.trendyol.com/arow/gauzy-borosilikat-cam-yaglik-seffaf-yesil-350-ml-p-1195759297",
+     "https://www.trendyol.com/arow/gauzy-350-ml-borosilikat-yaglik-p-1200315690",
+     "https://www.trendyol.com/arow/gauzy-600-ml-borosilikat-yaglik-p-1200315539"
+    ],
+    "hepsiburada": []
+   }
+  },
+  {
+   "slug": "porsima-mantar-kapakli-yaglik",
+   "ad": "Mantar Kapaklı Cam Yağlık, 500 ml",
+   "marka": "Porsima",
+   "kategori": "mutfak",
+   "koleksiyonlar": [],
+   "sira": 41,
+   "ozet": "Mantar kapaklı, kulplu, şeffaf borosilikat cam yağlık.",
+   "aciklama": [
+    "Mantar kapaklı, kulplu ve ince ağızlı bir yağlık-sirkelik. Şeffaf gövde yağın rengini sofraya taşır.",
+    "Yarım litrelik hacmiyle hem tezgâhta hem sofrada kullanılır."
+   ],
+   "ozellikler": [
+    [
+     "Malzeme",
+     "Borosilikat cam, mantar"
+    ],
+    [
+     "Hacim",
+     "500 ml"
+    ],
+    [
+     "Model kodu",
+     "6517"
+    ]
+   ],
+   "bakim": [
+    "Elde yıkanmalıdır.",
+    "Yağ değişiminde iyice kurutup yeniden doldurun."
+   ],
+   "secenekler": [
+    "renk"
+   ],
+   "varyantlar": [
+    {
+     "kod": "seffaf",
+     "secimler": {
+      "renk": "Şeffaf"
+     },
+     "renk": "Şeffaf",
+     "fiyat": 59900,
+     "barkod": "8681922079309",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/porsima-mantar-kapakli-yaglik/seffaf-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1800,
+       "renk": "#f8e8e8"
+      },
+      {
+       "src": "/urun/porsima-mantar-kapakli-yaglik/seffaf-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1800,
+       "renk": "#e8b888"
+      },
+      {
+       "src": "/urun/porsima-mantar-kapakli-yaglik/seffaf-3.webp",
+       "genislik": 935,
+       "yukseklik": 1267,
+       "renk": "#f8f8f8"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/porsima/6517-mantar-kapakli-borosilikat-cam-yaglik-sirkelik-yagdanlik-500-ml-p-1076086464"
+    }
+   ],
+   "kaynaklar": {
+    "trendyol": [
+     "https://www.trendyol.com/porsima/6517-mantar-kapakli-borosilikat-cam-yaglik-sirkelik-yagdanlik-500-ml-p-1076086464"
+    ],
+    "hepsiburada": []
+   }
+  },
+  {
+   "slug": "arow-arista-salata-kurutucu",
+   "ad": "Arista Sebze ve Salata Kurutucu",
+   "marka": "AROW",
+   "kategori": "mutfak",
+   "koleksiyonlar": [],
+   "sira": 42,
+   "ozet": "Yıkanan yeşillikleri döndürerek kurutan salata kurutucu.",
+   "aciklama": [
+    "Yıkadığınız marul, roka ve otları döndürerek kurutan bir salata kurutucu. Şeffaf kâse ve süzgeç sepetinden oluşur.",
+    "Trendyol'da 25 değerlendirmede 4,9 puan almış, mağazanın en çok satan mutfak ürünü (3 Ekim 2026)."
+   ],
+   "ozellikler": [
+    [
+     "Malzeme",
+     "Plastik"
+    ],
+    [
+     "Model kodu",
+     "TR-6107"
+    ]
+   ],
+   "bakim": [
+    "Kullanım ömrünü korumak için elde yıkayın."
+   ],
+   "secenekler": [
+    "renk"
+   ],
+   "varyantlar": [
+    {
+     "kod": "beyaz",
+     "secimler": {
+      "renk": "Beyaz"
+     },
+     "renk": "Beyaz",
+     "fiyat": 87900,
+     "barkod": "8681922075202",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/arow-arista-salata-kurutucu/beyaz-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1200,
+       "renk": "#987858"
+      },
+      {
+       "src": "/urun/arow-arista-salata-kurutucu/beyaz-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1800,
+       "renk": "#f8f8f8"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/arow/arista-sebze-kurutucu-tr-6107-p-1030898835"
+    }
+   ],
+   "kaynaklar": {
+    "trendyol": [
+     "https://www.trendyol.com/arow/arista-sebze-kurutucu-tr-6107-p-1030898835"
+    ],
+    "hepsiburada": []
+   }
+  },
+  {
+   "slug": "acar-vega-sivi-sabunluk",
+   "ad": "Vega Seramik Sıvı Sabunluk",
+   "marka": "ACAR",
+   "kategori": "banyo",
+   "koleksiyonlar": [],
+   "sira": 43,
+   "ozet": "Taş dokulu seramik gövde, ahşap etiketli pompalı sabunluk.",
+   "aciklama": [
+    "Taş dokusunu andıran pütürlü seramik gövde ve üzerinde ahşap bir etiket. Banyo tezgâhında ya da mutfak lavabosunun yanında sade durur.",
+    "Gri, siyah ve bej üç rengi var."
+   ],
+   "ozellikler": [
+    [
+     "Malzeme",
+     "Seramik"
+    ],
+    [
+     "Yükseklik",
+     "17-18 cm"
+    ]
+   ],
+   "bakim": [
+    "Kuru ya da hafif nemli bezle silin.",
+    "Aşındırıcı temizleyici kullanmayın."
+   ],
+   "secenekler": [
+    "renk"
+   ],
+   "varyantlar": [
+    {
+     "kod": "gri",
+     "secimler": {
+      "renk": "Gri"
+     },
+     "renk": "Gri",
+     "fiyat": 75000,
+     "barkod": "8681145117666",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/acar-vega-sivi-sabunluk/gri-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1800,
+       "renk": "#b8b8c8"
+      },
+      {
+       "src": "/urun/acar-vega-sivi-sabunluk/gri-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1800,
+       "renk": "#b8c8d8"
+      },
+      {
+       "src": "/urun/acar-vega-sivi-sabunluk/gri-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1800,
+       "renk": "#b8b8c8"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/acar/vega-gri-sivi-sabunluk-18-cm-p-922097091"
+    },
+    {
+     "kod": "siyah",
+     "secimler": {
+      "renk": "Siyah"
+     },
+     "renk": "Siyah",
+     "fiyat": 75000,
+     "barkod": "8681145117406",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/acar-vega-sivi-sabunluk/siyah-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1800,
+       "renk": "#d8d8e8"
+      },
+      {
+       "src": "/urun/acar-vega-sivi-sabunluk/siyah-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1800,
+       "renk": "#c8c8d8"
+      },
+      {
+       "src": "/urun/acar-vega-sivi-sabunluk/siyah-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1800,
+       "renk": "#c8c8d8"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/acar/vega-siyah-sivi-sabunluk-17-cm-p-922100468"
+    },
+    {
+     "kod": "bej",
+     "secimler": {
+      "renk": "Bej"
+     },
+     "renk": "Bej",
+     "fiyat": 75000,
+     "barkod": "8681145121977",
+     "stokta": true,
+     "gorseller": [
+      {
+       "src": "/urun/acar-vega-sivi-sabunluk/bej-1.webp",
+       "genislik": 1200,
+       "yukseklik": 1800,
+       "renk": "#c8c8d8"
+      },
+      {
+       "src": "/urun/acar-vega-sivi-sabunluk/bej-2.webp",
+       "genislik": 1200,
+       "yukseklik": 1800,
+       "renk": "#f8f8f8"
+      },
+      {
+       "src": "/urun/acar-vega-sivi-sabunluk/bej-3.webp",
+       "genislik": 1200,
+       "yukseklik": 1800,
+       "renk": "#c8c8d8"
+      }
+     ],
+     "trendyol": "https://www.trendyol.com/acar/vega-bej-sivi-sabunluk-17-cm-p-957725967"
+    }
+   ],
+   "kaynaklar": {
+    "trendyol": [
+     "https://www.trendyol.com/acar/vega-gri-sivi-sabunluk-18-cm-p-922097091",
+     "https://www.trendyol.com/acar/vega-siyah-sivi-sabunluk-17-cm-p-922100468",
+     "https://www.trendyol.com/acar/vega-bej-sivi-sabunluk-17-cm-p-957725967"
+    ],
+    "hepsiburada": []
+   }
+  }
+ ],
+ "instagram": [
+  {
+   "src": "/instagram/DU59aOriOTR.webp",
+   "url": "https://www.instagram.com/p/DU59aOriOTR/",
+   "genislik": 640,
+   "yukseklik": 640,
+   "renk": "#f8e8e8"
+  },
+  {
+   "src": "/instagram/DU584VfiERS.webp",
+   "url": "https://www.instagram.com/p/DU584VfiERS/",
+   "genislik": 640,
+   "yukseklik": 640,
+   "renk": "#a8b8a8"
+  },
+  {
+   "src": "/instagram/DU58S1niIzA.webp",
+   "url": "https://www.instagram.com/p/DU58S1niIzA/",
+   "genislik": 640,
+   "yukseklik": 640,
+   "renk": "#d8d8c8"
+  },
+  {
+   "src": "/instagram/DU57lF5iPYa.webp",
+   "url": "https://www.instagram.com/p/DU57lF5iPYa/",
+   "genislik": 600,
+   "yukseklik": 600,
+   "renk": "#d8d8c8"
+  },
+  {
+   "src": "/instagram/DU57C_siCRU.webp",
+   "url": "https://www.instagram.com/p/DU57C_siCRU/",
+   "genislik": 600,
+   "yukseklik": 600,
+   "renk": "#b8b8b8"
+  },
+  {
+   "src": "/instagram/DTz5DU0iCMK.webp",
+   "url": "https://www.instagram.com/p/DTz5DU0iCMK/",
+   "genislik": 640,
+   "yukseklik": 640,
+   "renk": "#b8a898"
+  },
+  {
+   "src": "/instagram/DTz443cCKkM.webp",
+   "url": "https://www.instagram.com/p/DTz443cCKkM/",
+   "genislik": 640,
+   "yukseklik": 640,
+   "renk": "#989898"
+  },
+  {
+   "src": "/instagram/DTz4twGiG6q.webp",
+   "url": "https://www.instagram.com/p/DTz4twGiG6q/",
+   "genislik": 640,
+   "yukseklik": 640,
+   "renk": "#b8a898"
+  },
+  {
+   "src": "/instagram/DTz4iZAiCl7.webp",
+   "url": "https://www.instagram.com/p/DTz4iZAiCl7/",
+   "genislik": 640,
+   "yukseklik": 640,
+   "renk": "#98b8c8"
+  },
+  {
+   "src": "/instagram/DTz4ScMiNp6.webp",
+   "url": "https://www.instagram.com/p/DTz4ScMiNp6/",
+   "genislik": 640,
+   "yukseklik": 640,
+   "renk": "#281808"
+  },
+  {
+   "src": "/instagram/DTz4DUgCGyt.webp",
+   "url": "https://www.instagram.com/p/DTz4DUgCGyt/",
+   "genislik": 640,
+   "yukseklik": 640,
+   "renk": "#b8a888"
+  },
+  {
+   "src": "/instagram/DTz31JxCK7n.webp",
+   "url": "https://www.instagram.com/p/DTz31JxCK7n/",
+   "genislik": 640,
+   "yukseklik": 640,
+   "renk": "#a89878"
+  }
+ ]
+}
