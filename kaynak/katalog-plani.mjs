@@ -56,7 +56,7 @@ export const KOLEKSIYONLAR = [
   {
     slug: "yesil-ekose",
     ad: "Yeşil ekose",
-    ozet: "Mango ağacı çerçeve, yeşil kareli emaye iç yüzey. Kahvaltı sofrasının en sevilen deseni.",
+    ozet: "Mango ağacı çerçeve, yeşil kareli emaye iç yüzey. Kahvaltı ve ikram sofraları için.",
   },
   {
     slug: "yeni-yil-sofrasi",

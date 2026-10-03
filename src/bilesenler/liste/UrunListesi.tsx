@@ -58,20 +58,22 @@ export function UrunListesi({ temelYol, urunler, filtre, kategoriFiltresi = fals
           ))}
         </FiltreGrubu>
       ) : null}
-      <FiltreGrubu baslik="Fiyat">
-        {secenekler.fiyatlar
-          .filter((f) => f.adet > 0)
-          .map((f) => (
-            <SecimBaglantisi
-              key={f.deger}
-              href={url({ tur: "fiyat", deger: f.deger })}
-              secili={filtre.fiyat === f.deger}
-              adet={f.adet}
-            >
-              {f.ad}
-            </SecimBaglantisi>
-          ))}
-      </FiltreGrubu>
+      {secenekler.fiyatlar.filter((f) => f.adet > 0).length > 1 ? (
+        <FiltreGrubu baslik="Fiyat">
+          {secenekler.fiyatlar
+            .filter((f) => f.adet > 0)
+            .map((f) => (
+              <SecimBaglantisi
+                key={f.deger}
+                href={url({ tur: "fiyat", deger: f.deger })}
+                secili={filtre.fiyat === f.deger}
+                adet={f.adet}
+              >
+                {f.ad}
+              </SecimBaglantisi>
+            ))}
+        </FiltreGrubu>
+      ) : null}
       {secenekler.malzemeler.length > 1 ? (
         <FiltreGrubu baslik="Malzeme">
           {secenekler.malzemeler.map(({ deger, adet }) => (
