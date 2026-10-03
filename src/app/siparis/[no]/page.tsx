@@ -3,8 +3,8 @@ import crypto from "node:crypto";
 import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { satirlariOku } from "@/sunucu/depo";
-import type { Siparis } from "@/sunucu/siparis-tipi";
+import { siparisBul } from "@/sunucu/kayitlar";
+import { DURUM_ADI } from "@/sunucu/siparis-tipi";
 import { MAGAZA } from "@/magaza/ayarlar";
 import { tl } from "@/magaza/para";
 import { tahminiKargoTarihi } from "@/magaza/kargo-tarihi";
@@ -24,8 +24,7 @@ const tarihBicimi = new Intl.DateTimeFormat("tr-TR", { timeZone: "Europe/Istanbu
 export default async function SiparisSayfasi({ params, searchParams }: PageProps<"/siparis/[no]">) {
   const { no } = await params;
   const { k } = await searchParams;
-  const siparisler = await satirlariOku<Siparis>("siparisler.jsonl");
-  const siparis = siparisler.find((s) => s.no === no);
+  const siparis = await siparisBul(no);
   // Sipariş numarası tek başına yetmez; bağlantıdaki gizli anahtar da eşleşmeli
   if (!siparis || typeof k !== "string" || !anahtarUyuyor(siparis.anahtar, k)) notFound();
 
@@ -53,6 +52,15 @@ export default async function SiparisSayfasi({ params, searchParams }: PageProps
         <p className="mt-4 text-murekkep-2">
           Sipariş numaranız <strong className="rakam font-medium text-murekkep">{siparis.no}</strong>.{" "}
           {tarihBicimi.format(new Date(siparis.tarih))}.
+        </p>
+        <p className="mt-4 text-[0.9375rem]">
+          Durum: <strong className="font-medium">{DURUM_ADI[siparis.durum]}</strong>
+          {siparis.takipNo ? (
+            <>
+              {" "}
+              · Kargo takip numarası <strong className="rakam font-medium">{siparis.takipNo}</strong>
+            </>
+          ) : null}
         </p>
         {siparis.demo ? (
           <p className="mt-6 rounded-kontrol bg-kagit-2 px-4 py-3 text-sm text-murekkep-2">

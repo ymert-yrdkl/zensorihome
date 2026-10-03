@@ -33,3 +33,4 @@ Siparişler ve iletişim mesajları `veri/` klasörüne (yayında `VERI_DIZINI=/
 | `NEXT_PUBLIC_SITE_ADRESI` | `https://zensorihomecom.ahmcloud.com` | Paylaşım ve site haritası adresleri (derleme anında) |
 | `NEXT_PUBLIC_DEMO_MODU` | `1` | `0` olursa demo notları kalkar, arama motorları siteyi tarar |
 | `VERI_DIZINI` | `./veri` (imajda `/veri`) | Sipariş ve mesaj kayıtları |
+| `YONETICI_SIFRE` | (yok) | Yönetim paneli `/yonetim` şifresi; tanımlı değilse panel kapalı |

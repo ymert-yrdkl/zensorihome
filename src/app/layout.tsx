@@ -5,6 +5,7 @@ import { Ust } from "@/bilesenler/duzen/Ust";
 import { Alt } from "@/bilesenler/duzen/Alt";
 import { SepetCekmecesi } from "@/bilesenler/sepet/SepetCekmecesi";
 import { SepetSaglayici } from "@/istemci/sepet";
+import { YalnizMagazada } from "@/bilesenler/duzen/YalnizMagazada";
 import { kategoriler, koleksiyonKapagi, koleksiyonlar } from "@/katalog/katalog";
 import { MAGAZA } from "@/magaza/ayarlar";
 import { tl } from "@/magaza/para";
@@ -52,16 +53,20 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
           İçeriğe geç
         </a>
         <SepetSaglayici>
-          <p className="bg-orman px-4 py-2 text-center text-etiket text-kagit">
-            {tl(MAGAZA.ucretsizKargoEsigi)} ve üzeri siparişlerde kargo ücretsiz
-            <span className="hidden sm:inline">. Siparişler {MAGAZA.kargoyaVerilis} içinde kargoda.</span>
-          </p>
-          <Ust kategoriler={kategoriler.map(({ slug, ad }) => ({ slug, ad }))} koleksiyonlar={menuKoleksiyonlari} />
+          <YalnizMagazada>
+            <p className="bg-orman px-4 py-2 text-center text-etiket text-kagit">
+              {tl(MAGAZA.ucretsizKargoEsigi)} ve üzeri siparişlerde kargo ücretsiz
+              <span className="hidden sm:inline">. Siparişler {MAGAZA.kargoyaVerilis} içinde kargoda.</span>
+            </p>
+            <Ust kategoriler={kategoriler.map(({ slug, ad }) => ({ slug, ad }))} koleksiyonlar={menuKoleksiyonlari} />
+          </YalnizMagazada>
           <main id="icerik" className="flex flex-1 flex-col">
             {children}
           </main>
-          <Alt />
-          <SepetCekmecesi />
+          <YalnizMagazada>
+            <Alt />
+            <SepetCekmecesi />
+          </YalnizMagazada>
         </SepetSaglayici>
       </body>
     </html>

@@ -39,6 +39,11 @@ Demo adresi: https://zensorihomecom.ahmcloud.com (Ahmet'in Coolify sunucusu). Sa
   silme, ücretsiz kargo ilerlemesi), ödeme (havale/EFT, kapıda ödeme; demo notu), sipariş onay sayfası (gizli anahtarla),
   favoriler, Hikâyemiz, SSS (FAQPage), Kargo ve iade, İletişim (form, hız sınırı, bot tuzağı), 6 yasal metin (taslak),
   404, site haritası, robots (demoda kapalı), paylaşım görseli, ikonlar.
+- Yönetim paneli `/yonetim` (3 Ekim 2026): şifre `YONETICI_SIFRE` ortam değişkeninde (yoksa panel kapalı); oturum
+  çerezi şifreden türetilen HMAC, 12 saat. Özet, siparişler (arama, durum filtresi, durum değiştirme + kargo takip no,
+  iç not), mesajlar (okundu). Kayıtlar değişmez; durumlar `siparis-olaylari.jsonl`, okundu bilgisi `mesaj-olaylari.jsonl`.
+  Müşterinin sipariş sayfası güncel durumu ve takip numarasını gösterir. Her sayfa/eylem ilk satırda `yonetimGerekli()`.
+  Yerelde şifre `.env.local` içinde; ekran görüntüsü için `EKRAN_YONETIM=1`.
 - Uçtan uca denendi: varyant seç → sepete ekle → ödeme boş gönder (alan hataları) → doldur → sipariş → onay sayfası.
 - Katalog: 43 ürün / 73 varyant (Trendyol 74 ilan, Hepsiburada 31, n11 48 ilan tarandı). Ayrıntı `kaynak/README.md`.
 - YAYINDA (Coolify, 3 Ekim 2026): açık depo github.com/ymert-yrdkl/zensorihome (dal `main`); push sonrası Coolify'da

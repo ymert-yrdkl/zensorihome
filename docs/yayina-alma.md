@@ -35,10 +35,16 @@ Depo açık olduğu için GitHub webhook yok: `git push` sonrası Coolify'da **D
 Hostinger › ahmcloud.com DNS: A kaydı `zensorihomecom` → `187.124.174.57` (diğer alt alanlarla aynı sunucu), TTL 300.
 Kayıt yayılınca Coolify Let's Encrypt sertifikasını kendisi alır.
 
-## 4. Kayıtlara bakmak
-Siparişler `/veri/siparisler.jsonl`, iletişim mesajları `/veri/mesajlar.jsonl` (satır başına bir JSON).
+## 4. Yönetim paneli
+Adres: https://zensorihomecom.ahmcloud.com/yonetim. Açmak için Coolify › zensorihome › Environment Variables'a
+`YONETICI_SIFRE` (en az 8 karakter, yalnız çalışma zamanı) eklenip uygulama **Restart** edilir. Şifre değişince açık
+oturumlar kendiliğinden düşer.
+
+## 5. Kayıtlara bakmak
+Siparişler `/veri/siparisler.jsonl`, durum değişiklikleri `/veri/siparis-olaylari.jsonl`, iletişim mesajları
+`/veri/mesajlar.jsonl` (satır başına bir JSON). Günlük kullanım için panel yeterli.
 Coolify › uygulama › Terminal: `tail -n 5 /veri/siparisler.jsonl`.
 
-## 5. Gerçek satışa geçmeden önce
+## 6. Gerçek satışa geçmeden önce
 `docs/acik-kararlar.md` listesindeki kararlar verilmeli; yasal metinler hukukçuya okutulmalı; kartla ödeme için
-iyzico/PayTR üye işyeri hesabı açılmalı; sipariş bildirimi (e-posta) ve bir yönetim ekranı eklenmeli.
+iyzico/PayTR üye işyeri hesabı açılmalı; sipariş bildirimi (e-posta) eklenmeli.

@@ -60,6 +60,15 @@ function gonder(method, params = {}) {
 }
 
 await gonder("Page.enable");
+// EKRAN_YONETIM=1 ise .env.local'deki YONETICI_SIFRE ile yönetim oturum çerezi kurulur
+if (process.env.EKRAN_YONETIM) {
+  const { createHmac } = await import("node:crypto");
+  const sifre = (fs.readFileSync(".env.local", "utf8").match(/YONETICI_SIFRE=(.+)/) ?? [])[1]?.trim() ?? "";
+  const bitis = Date.now() + 3600_000;
+  const imza = createHmac("sha256", sifre).update(`zensori-yonetim:${bitis}`).digest("base64url");
+  await gonder("Network.enable");
+  await gonder("Network.setCookie", { name: "zh_yonetim", value: `${bitis}.${imza}`, url: ADRES + "/yonetim", path: "/yonetim" });
+}
 // EKRAN_SEPET=1 ise örnek bir sepet localStorage'a konur (ödeme ve sepet sayfaları için)
 if (process.env.EKRAN_SEPET) {
   const ornek = [

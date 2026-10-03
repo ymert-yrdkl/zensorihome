@@ -5,7 +5,7 @@ import { MAGAZA } from "@/magaza/ayarlar";
 export default function robots(): MetadataRoute.Robots {
   if (MAGAZA.demo) return { rules: { userAgent: "*", disallow: "/" } };
   return {
-    rules: { userAgent: "*", allow: "/", disallow: ["/odeme", "/sepet", "/siparis/", "/arama", "/api/"] },
+    rules: { userAgent: "*", allow: "/", disallow: ["/odeme", "/sepet", "/siparis/", "/arama", "/api/", "/yonetim"] },
     sitemap: `${MAGAZA.siteAdresi}/sitemap.xml`,
   };
 }

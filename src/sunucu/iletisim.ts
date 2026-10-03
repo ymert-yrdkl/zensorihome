@@ -1,5 +1,6 @@
 "use server";
 
+import crypto from "node:crypto";
 import { headers } from "next/headers";
 import { z } from "zod";
 import { hizSiniriAsildi, satirEkle } from "./depo";
@@ -38,6 +39,14 @@ export async function mesajGonder(girdi: z.input<typeof Form>): Promise<Iletisim
     return { tamam: false, mesaj: "Bazı alanlar eksik ya da hatalı.", hatalar };
   }
   const { ad, eposta, konu, siparisNo, mesaj } = sonuc.data;
-  await satirEkle("mesajlar.jsonl", { ad, eposta, konu, siparisNo, mesaj, tarih: new Date().toISOString() });
+  await satirEkle("mesajlar.jsonl", {
+    id: crypto.randomUUID(),
+    ad,
+    eposta,
+    konu,
+    siparisNo,
+    mesaj,
+    tarih: new Date().toISOString(),
+  });
   return { tamam: true };
 }
